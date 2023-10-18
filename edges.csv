@@ -1,0 +1,803 @@
+From Type,From Name,Edge Type,To Type,To Name,id
+ingredient,Collard Greens,ingredient dish,dish,Feijoada
+ingredient,Ginger,ingredient dish,dish,Biryani
+ingredient,Chicken/Meat/Vegetables,ingredient dish,dish,Biryani
+ingredient,Lemongrass,ingredient dish,dish,Tom Yum Soup
+ingredient,Salt,ingredient dish,dish,Sauerbraten
+ingredient,Rice,ingredient dish,dish,Biryani
+ingredient,Cornstarch,ingredient dish,dish,Pavlova
+ingredient,Garlic,ingredient dish,dish,Pad Thai
+ingredient,Bouquet Garni,ingredient dish,dish,Coq Au Vin
+ingredient,Onions,ingredient dish,dish,Curry
+ingredient,Onions,ingredient dish,dish,Ceviche
+ingredient,Tablespoons Of Achiote Paste,ingredient dish,dish,Tacos Al Pastor
+ingredient,Black Beans,ingredient dish,dish,Feijoada
+ingredient,Coriander,ingredient dish,dish,Butter Chicken
+ingredient,Coriander,ingredient dish,dish,Momos
+ingredient,Soy Sauce,ingredient dish,dish,Bibimbap
+ingredient,Coriander Powder,ingredient dish,dish,Butter Chicken
+ingredient,Onions,ingredient dish,dish,Tacos
+ingredient,Shredded Cheese,ingredient dish,dish,Tacos
+ingredient,Tamarind Paste,ingredient dish,dish,Pad Thai
+ingredient,Yeast,ingredient dish,dish,Margherita Pizza
+ingredient,Tomato,ingredient dish,dish,Moussaka
+ingredient,Coriander,ingredient dish,dish,Biryani
+ingredient,Onion,ingredient dish,dish,Lasagna
+ingredient,Ground Meat,ingredient dish,dish,Chiles Rellenos
+ingredient,Yogurt,ingredient dish,dish,Chicken Biryani
+ingredient,Crispy Fried Onions,ingredient dish,dish,Biryani
+ingredient,Tomato Paste,ingredient dish,dish,Borscht
+ingredient,Green Chili Peppers,ingredient dish,dish,Biryani
+ingredient,Onions,ingredient dish,dish,Coq Au Vin
+ingredient,Fish,ingredient dish,dish,Ceviche
+dish,Tagine,dish owned,country,Morocco
+ingredient,Fish Sauce,ingredient dish,dish,Nasi Goreng
+ingredient,Raw Fish Or Seafood,ingredient dish,dish,Ceviche
+ingredient,Chicken Broth,ingredient dish,dish,Coq Au Vin
+ingredient,Onions,ingredient dish,dish,Borscht
+ingredient,Olive Oil,ingredient dish,dish,Lasagna
+ingredient,Tablespoons Of Tomato Paste,ingredient dish,dish,Coq Au Vin
+ingredient,Shrimp,ingredient dish,dish,Nasi Goreng
+ingredient,Yeast,ingredient dish,dish,Pizza
+ingredient,Rice,ingredient dish,dish,Jollof Rice
+ingredient,Pineapple,ingredient dish,dish,Tacos Al Pastor
+ingredient,Rice Noodles,ingredient dish,dish,Pad Thai
+ingredient,Vegetable Broth,ingredient dish,dish,Tagine
+ingredient,Ghee,ingredient dish,dish,Biryani
+ingredient,Garlic,ingredient dish,dish,Tagine
+ingredient,Onions,ingredient dish,dish,Tabbouleh
+ingredient,Ground Beef,ingredient dish,dish,Moussaka
+ingredient,Chopped Cilantro,ingredient dish,dish,Tacos Al Pastor
+ingredient,Chili Peppers,ingredient dish,dish,Ceviche
+ingredient,Cucumber,ingredient dish,dish,Gado-Gado
+ingredient,Cilantro,ingredient dish,dish,Butter Chicken
+ingredient,Mint Leaves,ingredient dish,dish,Chicken Biryani
+ingredient,Heavy Cream,ingredient dish,dish,Butter Chicken
+ingredient,Stock Cube,ingredient dish,dish,Jollof Rice
+ingredient,Flour,ingredient dish,dish,Coq Au Vin
+ingredient,Coriander Powder,ingredient dish,dish,Chicken Tikka Masala
+ingredient,Fish,ingredient dish,dish,Sushi
+ingredient,Ground Beef Or Chicken,ingredient dish,dish,Tacos
+ingredient,Pepper,ingredient dish,dish,Ceviche
+ingredient,Turmeric,ingredient dish,dish,Tagine
+ingredient,Shallots,ingredient dish,dish,Pad Thai
+ingredient,Chicken,ingredient dish,dish,Enchiladas
+ingredient,Garlic,ingredient dish,dish,Ceviche
+ingredient,Chopped Onion,ingredient dish,dish,Tacos Al Pastor
+ingredient,Ginger,ingredient dish,dish,Butter Chicken
+ingredient,Tomato Sauce,ingredient dish,dish,Moussaka
+ingredient,Oil,ingredient dish,dish,Koshari
+ingredient,Parmesan Cheese,ingredient dish,dish,Moussaka
+dish,Bandeja Paisa,dish owned,country,Colombia
+ingredient,Bay Leaves,ingredient dish,dish,Coq Au Vin
+ingredient,Beef Roast,ingredient dish,dish,Sauerbraten
+ingredient,Peanuts,ingredient dish,dish,Pad Thai
+ingredient,Maize Flour,ingredient dish,dish,Ugali
+ingredient,Cream,ingredient dish,dish,Chicken Tikka Masala
+ingredient,Lemon Juice,ingredient dish,dish,Tabbouleh
+ingredient,Turmeric,ingredient dish,dish,Biryani
+ingredient,Raw Fish Or Seafood,ingredient dish,dish,Sushi
+ingredient,Teaspoon Of Paprika,ingredient dish,dish,Tacos
+ingredient,Cilantro,ingredient dish,dish,Pad Thai
+ingredient,Mussels,ingredient dish,dish,Paella
+ingredient,Roti,ingredient dish,dish,Kottu Roti
+ingredient,Black Pepper,ingredient dish,dish,Pasta Carbonara
+ingredient,Peanuts,ingredient dish,dish,Kung Pao Chicken
+ingredient,Black Pepper,ingredient dish,dish,Jollof Rice
+ingredient,Fried Onions,ingredient dish,dish,Chicken Biryani
+ingredient,Cumin,ingredient dish,dish,Chicken Tikka Masala
+ingredient,Lime Juice,ingredient dish,dish,Nasi Goreng
+ingredient,Cucumber,ingredient dish,dish,Sushi
+ingredient,Ginger-Garlic Paste,ingredient dish,dish,Chicken Biryani
+ingredient,Rice,ingredient dish,dish,Nasi Goreng
+ingredient,Turmeric,ingredient dish,dish,Butter Chicken
+ingredient,Onion,ingredient dish,dish,Paella
+ingredient,Ginger,ingredient dish,dish,Kottu Roti
+dish,Nasi Lemak,dish owned,country,Malaysia
+ingredient,Rice Or Naan Bread,ingredient dish,dish,Curry
+ingredient,Sugar,ingredient dish,dish,Pad Thai
+ingredient,Chicken Or Lamb Meat,ingredient dish,dish,Biryani
+ingredient,Lime Juice,ingredient dish,dish,Tacos
+ingredient,Curry Powder Or Spices,ingredient dish,dish,Curry
+ingredient,Ginger Garlic Paste,ingredient dish,dish,Butter Chicken
+ingredient,Biryani Masala,ingredient dish,dish,Chicken Biryani
+ingredient,Onions,ingredient dish,dish,Feijoada
+ingredient,Adobo Sauce,ingredient dish,dish,Tacos Al Pastor
+ingredient,Tomato Paste,ingredient dish,dish,Jollof Rice
+dish,Pavlova,dish owned,country,Australia
+ingredient,Dried Chili Flakes,ingredient dish,dish,Pad Thai
+ingredient,Yogurt,ingredient dish,dish,Biryani
+ingredient,Potatoes,ingredient dish,dish,Borscht
+ingredient,Paprika,ingredient dish,dish,Jollof Rice
+ingredient,Bottle Of Red Wine,ingredient dish,dish,Coq Au Vin
+ingredient,Rice,ingredient dish,dish,Koshari
+ingredient,Cumin,ingredient dish,dish,Enchiladas
+ingredient,Garam Masala,ingredient dish,dish,Biryani
+ingredient,Chicken/Lamb/Beef,ingredient dish,dish,Biryani
+ingredient,Garlic,ingredient dish,dish,Momos
+dish,Pad Thai,dish owned,country,Thailand
+ingredient,Pork Ribs,ingredient dish,dish,Feijoada
+ingredient,Ground Meat,ingredient dish,dish,Momos
+ingredient,Butter,ingredient dish,dish,Sauerbraten
+ingredient,Tablespoon Of Paprika,ingredient dish,dish,Tacos Al Pastor
+dish,Jollof Rice,dish owned,country,Nigeria
+ingredient,Potatoes,ingredient dish,dish,Moussaka
+dish,Croissant,dish owned,country,France
+ingredient,Saffron Strands,ingredient dish,dish,Biryani
+ingredient,Basmati Rice,ingredient dish,dish,Biryani
+ingredient,Pine Nuts,ingredient dish,dish,Kibbeh
+dish,Pavlova,dish owned,country,New Zealand
+ingredient,Coriander,ingredient dish,dish,Chicken Tikka Masala
+ingredient,Chili,ingredient dish,dish,Nasi Goreng
+ingredient,Cheese,ingredient dish,dish,Tacos
+ingredient,Avocado,ingredient dish,dish,Enchiladas
+ingredient,Spices,ingredient dish,dish,Chicken Biryani
+ingredient,Chicken Legs,ingredient dish,dish,Coq Au Vin
+ingredient,Shrimp,ingredient dish,dish,Paella
+ingredient,Butter,ingredient dish,dish,Chicken Tikka Masala
+ingredient,Diced Onions,ingredient dish,dish,Tacos
+ingredient,Cilantro,ingredient dish,dish,Tacos
+ingredient,Lettuce,ingredient dish,dish,Tacos
+ingredient,Oregano,ingredient dish,dish,Enchiladas
+dish,Couscous,dish owned,country,Morocco
+ingredient,Oregano,ingredient dish,dish,Lasagna
+ingredient,Boiled Eggs,ingredient dish,dish,Gado-Gado
+ingredient,Pepper,ingredient dish,dish,Lasagna
+ingredient,Pizza Dough,ingredient dish,dish,Pizza
+ingredient,Pepper,ingredient dish,dish,Coq Au Vin
+ingredient,Peanuts,ingredient dish,dish,Nasi Lemak
+ingredient,Egg Whites,ingredient dish,dish,Pavlova
+ingredient,Cilantro,ingredient dish,dish,Ceviche
+ingredient,Preserved Lemons,ingredient dish,dish,Tagine
+ingredient,Grated Cheese,ingredient dish,dish,Moussaka
+ingredient,Fried Anchovies,ingredient dish,dish,Nasi Lemak
+ingredient,Biryani Masala,ingredient dish,dish,Biryani
+dish,Biryani,dish owned,country,Pakistan
+ingredient,Cumin,ingredient dish,dish,Biryani
+ingredient,Tofu,ingredient dish,dish,Gado-Gado
+ingredient,Sesame Seeds,ingredient dish,dish,Bibimbap
+ingredient,Cumin Powder,ingredient dish,dish,Butter Chicken
+ingredient,Onions,ingredient dish,dish,Biryani
+ingredient,Flour,ingredient dish,dish,Sauerbraten
+ingredient,Cloves,ingredient dish,dish,Chicken Biryani
+dish,Tacos,dish owned,country,Mexico
+ingredient,1/Teaspoon Of Cinnamon,ingredient dish,dish,Tacos Al Pastor
+ingredient,Rice,ingredient dish,dish,Paella
+ingredient,Curry Powder,ingredient dish,dish,Jollof Rice
+ingredient,Rice Noodles,ingredient dish,dish,Pho
+ingredient,Pepper,ingredient dish,dish,Chiles Rellenos
+ingredient,Garam Masala,ingredient dish,dish,Butter Chicken
+ingredient,Cashews,ingredient dish,dish,Biryani
+ingredient,Sambal Sauce,ingredient dish,dish,Nasi Lemak
+ingredient,Cinnamon,ingredient dish,dish,Pho
+ingredient,Hoisin Sauce,ingredient dish,dish,Pho
+ingredient,Turmeric Powder,ingredient dish,dish,Chicken Biryani
+ingredient,Paprika,ingredient dish,dish,Butter Chicken
+dish,Kung Pao Chicken,dish owned,country,China
+ingredient,Clarified Butter,ingredient dish,dish,Biryani
+ingredient,Green Chilies,ingredient dish,dish,Biryani
+ingredient,Whole Chicken,ingredient dish,dish,Coq Au Vin
+ingredient,Oil,ingredient dish,dish,Momos
+ingredient,Chicharron,ingredient dish,dish,Bandeja Paisa
+ingredient,Sugar,ingredient dish,dish,Kung Pao Chicken
+ingredient,Chickpeas,ingredient dish,dish,Koshari
+ingredient,Pound Of Ground Beef,ingredient dish,dish,Tacos
+ingredient,Onion,ingredient dish,dish,Kibbeh
+ingredient,Butter,ingredient dish,dish,Croissant
+dish,Kottu Roti,dish owned,country,Sri Lanka
+ingredient,Guajillo Peppers,ingredient dish,dish,Tacos Al Pastor
+ingredient,Tomatoes,ingredient dish,dish,Biryani
+ingredient,Cooked Sushi Rice,ingredient dish,dish,Sushi
+ingredient,Tempeh,ingredient dish,dish,Gado-Gado
+ingredient,Bay Leaves,ingredient dish,dish,Feijoada
+ingredient,Pepper,ingredient dish,dish,Margherita Pizza
+ingredient,Vegetable Oil,ingredient dish,dish,Kung Pao Chicken
+ingredient,Tomato Sauce,ingredient dish,dish,Koshari
+ingredient,Turmeric,ingredient dish,dish,Momos
+ingredient,Spices,ingredient dish,dish,Chicken Tikka Masala
+ingredient,Red Chili Powder,ingredient dish,dish,Chicken Tikka Masala
+ingredient,White Vinegar,ingredient dish,dish,Pavlova
+ingredient,Garnished With Fried Onions,ingredient dish,dish,Nasi Goreng
+ingredient,Seasoned Meat,ingredient dish,dish,Tacos
+ingredient,Spices,ingredient dish,dish,Butter Chicken
+ingredient,Sour Cream,ingredient dish,dish,Borscht
+ingredient,Toppings,ingredient dish,dish,Pizza
+ingredient,Bacon,ingredient dish,dish,Feijoada
+dish,Paella,dish owned,country,Spain
+ingredient,Fried Pork Belly,ingredient dish,dish,Bandeja Paisa
+ingredient,French Fries,ingredient dish,dish,Poutine
+ingredient,Tamarind Sauce,ingredient dish,dish,Pad Thai
+dish,Nasi Goreng,dish owned,country,Indonesia
+ingredient,Garlic,ingredient dish,dish,Butter Chicken
+ingredient,Mushrooms,ingredient dish,dish,Coq Au Vin
+ingredient,Galangal,ingredient dish,dish,Tom Yum Soup
+ingredient,Heavy Cream,ingredient dish,dish,Chicken Tikka Masala
+ingredient,Chicken,ingredient dish,dish,Coq Au Vin
+ingredient,Ground Cumin,ingredient dish,dish,Chicken Tikka Masala
+ingredient,Onions,ingredient dish,dish,Pho
+ingredient,Green Chilies,ingredient dish,dish,Chicken Biryani
+ingredient,Kasoori Methi,ingredient dish,dish,Butter Chicken
+ingredient,Fenugreek Leaves,ingredient dish,dish,Butter Chicken
+ingredient,Salsa,ingredient dish,dish,Tacos
+ingredient,Salsa,ingredient dish,dish,Tacos Al Pastor
+ingredient,Chili Powder,ingredient dish,dish,Enchiladas
+ingredient,Tortillas,ingredient dish,dish,Tacos Al Pastor
+ingredient,Mozzarella Cheese,ingredient dish,dish,Pizza
+ingredient,Tomato,ingredient dish,dish,Paella
+ingredient,Eggs,ingredient dish,dish,Pad Thai
+ingredient,1Button Mushrooms,ingredient dish,dish,Coq Au Vin
+ingredient,Potatoes,ingredient dish,dish,Tagine
+ingredient,Cumin,ingredient dish,dish,Chicken Biryani
+ingredient,Corn Tortillas,ingredient dish,dish,Tacos
+ingredient,Cloves Of Garlic,ingredient dish,dish,Coq Au Vin
+ingredient,Cumin,ingredient dish,dish,Chiles Rellenos
+ingredient,Beef Bones,ingredient dish,dish,Pho
+ingredient,Garlic,ingredient dish,dish,Moussaka
+ingredient,Fish Sauce,ingredient dish,dish,Pad Thai
+ingredient,Tofu Or Shrimp,ingredient dish,dish,Pad Thai
+ingredient,Carrots,ingredient dish,dish,Coq Au Vin
+ingredient,Tomatoes,ingredient dish,dish,Chicken Biryani
+ingredient,Onions,ingredient dish,dish,Kung Pao Chicken
+ingredient,Black Pepper,ingredient dish,dish,Tabbouleh
+ingredient,Red Wine,ingredient dish,dish,Coq Au Vin
+ingredient,Cheese,ingredient dish,dish,Chiles Rellenos
+ingredient,Arepa,ingredient dish,dish,Bandeja Paisa
+ingredient,Onion,ingredient dish,dish,Moussaka
+ingredient,Pickled Ginger,ingredient dish,dish,Sushi
+ingredient,Boneless Chicken,ingredient dish,dish,Chicken Tikka Masala
+ingredient,Rice,ingredient dish,dish,Bandeja Paisa
+ingredient,Sugar,ingredient dish,dish,Sauerbraten
+ingredient,Vinegar,ingredient dish,dish,Koshari
+ingredient,Beef,ingredient dish,dish,Bibimbap
+ingredient,Bulgur Wheat,ingredient dish,dish,Kibbeh
+ingredient,Chilies,ingredient dish,dish,Enchiladas
+ingredient,Slices Of Bacon,ingredient dish,dish,Coq Au Vin
+ingredient,Pasta,ingredient dish,dish,Spaghetti Carbonara
+ingredient,Coriander,ingredient dish,dish,Chicken Biryani
+ingredient,Carrots,ingredient dish,dish,Borscht
+ingredient,1Small Onions,ingredient dish,dish,Coq Au Vin
+ingredient,Teaspoon Of Cumin,ingredient dish,dish,Tacos Al Pastor
+ingredient,Carrots,ingredient dish,dish,Gado-Gado
+ingredient,Nori Seaweed,ingredient dish,dish,Sushi
+dish,Sauerbraten,dish owned,country,Germany
+ingredient,Sponge Cake,ingredient dish,dish,Lamington
+ingredient,Garlic,ingredient dish,dish,Koshari
+ingredient,Cardamom,ingredient dish,dish,Butter Chicken
+ingredient,Achiote Paste,ingredient dish,dish,Tacos Al Pastor
+dish,Tom Yum Soup,dish owned,country,Thailand
+ingredient,Cilantro,ingredient dish,dish,Chicken Biryani
+ingredient,Garlic,ingredient dish,dish,Tacos Al Pastor
+ingredient,Lemon Juice,ingredient dish,dish,Butter Chicken
+dish,Shawarma,dish owned,country,Lebanon
+ingredient,Seasoning Cubes,ingredient dish,dish,Jollof Rice
+ingredient,Garlic,ingredient dish,dish,Nasi Goreng
+ingredient,Rice,ingredient dish,dish,Nasi Lemak
+ingredient,Carrots,ingredient dish,dish,Buur
+ingredient,Basil,ingredient dish,dish,Pho
+ingredient,Flour,ingredient dish,dish,Buur
+ingredient,Roasted Peanuts,ingredient dish,dish,Pad Thai
+ingredient,Tomato Sauce,ingredient dish,dish,Lasagna
+dish,Ugali,dish owned,country,Kenya
+ingredient,Turmeric,ingredient dish,dish,Chicken Biryani
+ingredient,Vegetable Oil,ingredient dish,dish,Chiles Rellenos
+ingredient,Ground Lamb,ingredient dish,dish,Kibbeh
+ingredient,Almonds,ingredient dish,dish,Chiles Rellenos
+ingredient,Salt,ingredient dish,dish,Chiles Rellenos
+ingredient,Dried Apricots,ingredient dish,dish,Tagine
+ingredient,Bell Pepper,ingredient dish,dish,Paella
+ingredient,Hard-Boiled Eggs,ingredient dish,dish,Nasi Lemak
+ingredient,Marinara Sauce,ingredient dish,dish,Lasagna
+ingredient,Egg,ingredient dish,dish,Lasagna
+ingredient,Eggs,ingredient dish,dish,Lasagna
+ingredient,Lamb,ingredient dish,dish,Tagine
+ingredient,Corn Tortillas,ingredient dish,dish,Tacos Al Pastor
+ingredient,Saffron,ingredient dish,dish,Tagine
+ingredient,Plantain,ingredient dish,dish,Bandeja Paisa
+ingredient,Cardamom,ingredient dish,dish,Chicken Biryani
+ingredient,Mint Leaves,ingredient dish,dish,Biryani
+ingredient,Dried Red Chilies,ingredient dish,dish,Kung Pao Chicken
+ingredient,Saffron Strands,ingredient dish,dish,Chicken Biryani
+ingredient,Salt,ingredient dish,dish,Butter Chicken
+ingredient,Tomato Puree,ingredient dish,dish,Butter Chicken
+ingredient,Eggplant,ingredient dish,dish,Moussaka
+ingredient,Lime Wedges,ingredient dish,dish,Pad Thai
+dish,Pho,dish owned,country,Vietnam
+ingredient,Tablespoon Of Tomato Paste,ingredient dish,dish,Coq Au Vin
+ingredient,Ginger-Garlic Paste,ingredient dish,dish,Chicken Tikka Masala
+ingredient,Grilled Meat,ingredient dish,dish,Tacos
+ingredient,Soy Sauce,ingredient dish,dish,Kung Pao Chicken
+dish,Curry,dish owned,country,India
+ingredient,Onions,ingredient dish,dish,Chicken Biryani
+ingredient,Fresh Fruits,ingredient dish,dish,Pavlova
+ingredient,Cumin,ingredient dish,dish,Tacos Al Pastor
+ingredient,Ghee/Vegetable Oil,ingredient dish,dish,Biryani
+ingredient,Cream,ingredient dish,dish,Butter Chicken
+ingredient,Salt,ingredient dish,dish,Margherita Pizza
+ingredient,Chicken Or Beef Stock,ingredient dish,dish,Jollof Rice
+ingredient,Fresh Cilantro,ingredient dish,dish,Chicken Tikka Masala
+ingredient,Salt,ingredient dish,dish,Buur
+ingredient,Bay Leaves,ingredient dish,dish,Sauerbraten
+ingredient,Onion,ingredient dish,dish,Tacos
+dish,Pasta Carbonara,dish owned,country,Italy
+dish,Tacos Al Pastor,dish owned,country,Mexico
+ingredient,Cloves,ingredient dish,dish,Biryani
+ingredient,Cinnamon,ingredient dish,dish,Moussaka
+ingredient,Water,ingredient dish,dish,Biryani
+ingredient,Mint,ingredient dish,dish,Biryani
+ingredient,Ginger,ingredient dish,dish,Jollof Rice
+ingredient,Ginger-Garlic Paste,ingredient dish,dish,Butter Chicken
+ingredient,Chopped Cilantro,ingredient dish,dish,Tacos
+dish,Coq Au Vin,dish owned,country,France
+ingredient,Chicken Or Beef,ingredient dish,dish,Jollof Rice
+ingredient,Pearl Onions,ingredient dish,dish,Coq Au Vin
+ingredient,Garlic,ingredient dish,dish,Chiles Rellenos
+ingredient,Onion,ingredient dish,dish,Tacos Al Pastor
+ingredient,Flour,ingredient dish,dish,Margherita Pizza
+ingredient,Vegetables,ingredient dish,dish,Nasi Goreng
+ingredient,Fresh Cilantro,ingredient dish,dish,Tagine
+ingredient,Semolina,ingredient dish,dish,Couscous
+ingredient,Coriander Leaves,ingredient dish,dish,Biryani
+ingredient,Tablespoons Of Flour,ingredient dish,dish,Coq Au Vin
+ingredient,Eggs,ingredient dish,dish,Spaghetti Carbonara
+ingredient,Cloves,ingredient dish,dish,Pho
+ingredient,Sour Cream,ingredient dish,dish,Enchiladas
+ingredient,Macaroni,ingredient dish,dish,Koshari
+ingredient,Cumin Powder,ingredient dish,dish,Chicken Tikka Masala
+ingredient,Vegetables,ingredient dish,dish,Couscous
+ingredient,Green Onions,ingredient dish,dish,Pad Thai
+ingredient,Mozzarella Cheese,ingredient dish,dish,Lasagna
+ingredient,Poblano Peppers,ingredient dish,dish,Chiles Rellenos
+ingredient,Basil,ingredient dish,dish,Lasagna
+ingredient,Lamb,ingredient dish,dish,Biryani
+ingredient,Olive Oil,ingredient dish,dish,Pizza
+ingredient,Salt,ingredient dish,dish,Momos
+ingredient,Lamb,ingredient dish,dish,Buur
+ingredient,Olive Oil,ingredient dish,dish,Moussaka
+ingredient,Onion,ingredient dish,dish,Coq Au Vin
+ingredient,Beans,ingredient dish,dish,Bandeja Paisa
+ingredient,Oregano,ingredient dish,dish,Chiles Rellenos
+ingredient,Chocolate Icing,ingredient dish,dish,Lamington
+ingredient,Basmati Rice,ingredient dish,dish,Chicken Biryani
+ingredient,Crushed Peanuts,ingredient dish,dish,Pad Thai
+ingredient,Onions,ingredient dish,dish,Chiles Rellenos
+ingredient,Peas,ingredient dish,dish,Paella
+ingredient,Tomatoes,ingredient dish,dish,Chiles Rellenos
+ingredient,Chicken,ingredient dish,dish,Chicken Tikka Masala
+ingredient,Ginger-Garlic Paste,ingredient dish,dish,Biryani
+ingredient,Lime,ingredient dish,dish,Tacos Al Pastor
+ingredient,Tablespoon Of Dried Oregano,ingredient dish,dish,Tacos Al Pastor
+ingredient,Beef Broth,ingredient dish,dish,Sauerbraten
+ingredient,Celery,ingredient dish,dish,Sauerbraten
+ingredient,Pizza Dough,ingredient dish,dish,Margherita Pizza
+ingredient,Black Pepper,ingredient dish,dish,Lasagna
+ingredient,Orange Juice,ingredient dish,dish,Tacos Al Pastor
+ingredient,Pork Meat,ingredient dish,dish,Feijoada
+ingredient,1/Cup Of Orange Juice,ingredient dish,dish,Tacos Al Pastor
+ingredient,Eggs,ingredient dish,dish,Bibimbap
+ingredient,Chili Powder,ingredient dish,dish,Momos
+ingredient,Bechamel Sauce,ingredient dish,dish,Moussaka
+ingredient,Garlic,ingredient dish,dish,Jollof Rice
+ingredient,Coriander Leaves,ingredient dish,dish,Chicken Tikka Masala
+ingredient,Tomato Sauce,ingredient dish,dish,Pizza
+ingredient,Flour,ingredient dish,dish,Croissant
+ingredient,Chili Powder,ingredient dish,dish,Chicken Biryani
+ingredient,Vinegar,ingredient dish,dish,Borscht
+ingredient,Garlic,ingredient dish,dish,Bibimbap
+ingredient,Pork,ingredient dish,dish,Tacos Al Pastor
+ingredient,Onions,ingredient dish,dish,Chicken Tikka Masala
+ingredient,Italian Herbs,ingredient dish,dish,Lasagna
+ingredient,Fresh Cilantro Leaves,ingredient dish,dish,Biryani
+ingredient,Warm Water,ingredient dish,dish,Margherita Pizza
+ingredient,Sichuan Peppercorns,ingredient dish,dish,Kung Pao Chicken
+ingredient,Assorted Vegetables,ingredient dish,dish,Bibimbap
+ingredient,Queso Fresco,ingredient dish,dish,Enchiladas
+ingredient,Olive Oil,ingredient dish,dish,Tabbouleh
+dish,Enchiladas,dish owned,country,Mexico
+ingredient,Rice,ingredient dish,dish,Feijoada
+ingredient,Anchovies,ingredient dish,dish,Nasi Lemak
+ingredient,Onion,ingredient dish,dish,Butter Chicken
+ingredient,Pepper,ingredient dish,dish,Tacos Al Pastor
+ingredient,Sweet Potatoes,ingredient dish,dish,Ceviche
+ingredient,Yeast,ingredient dish,dish,Croissant
+dish,Tabbouleh,dish owned,country,Lebanon
+ingredient,Oil,ingredient dish,dish,Chiles Rellenos
+ingredient,Peppers,ingredient dish,dish,Jollof Rice
+ingredient,White Vinegar,ingredient dish,dish,Tacos Al Pastor
+ingredient,Kasuri Methi,ingredient dish,dish,Butter Chicken
+ingredient,Red Chili Pepper,ingredient dish,dish,Pad Thai
+ingredient,Green Onions,ingredient dish,dish,Kung Pao Chicken
+ingredient,Cumin,ingredient dish,dish,Butter Chicken
+ingredient,Sugar,ingredient dish,dish,Croissant
+ingredient,Pepper,ingredient dish,dish,Sauerbraten
+ingredient,Rabbit,ingredient dish,dish,Paella
+ingredient,Chicken,ingredient dish,dish,Biryani
+ingredient,Parmesan Cheese,ingredient dish,dish,Pasta Carbonara
+ingredient,Water,ingredient dish,dish,Pizza
+ingredient,Turmeric,ingredient dish,dish,Chicken Tikka Masala
+ingredient,Lime Juice,ingredient dish,dish,Tom Yum Soup
+ingredient,Ginger,ingredient dish,dish,Tagine
+ingredient,Milk,ingredient dish,dish,Moussaka
+ingredient,Saffron,ingredient dish,dish,Biryani
+ingredient,Parmesan Cheese,ingredient dish,dish,Lasagna
+ingredient,Shrimp,ingredient dish,dish,Pad Thai
+ingredient,Avocado,ingredient dish,dish,Bandeja Paisa
+ingredient,Salt,ingredient dish,dish,Croissant
+ingredient,Basil,ingredient dish,dish,Margherita Pizza
+ingredient,1/Teaspoon Of Cloves,ingredient dish,dish,Tacos Al Pastor
+ingredient,Tomato Paste,ingredient dish,dish,Chicken Tikka Masala
+ingredient,Tomatoes,ingredient dish,dish,Tagine
+ingredient,Raisins,ingredient dish,dish,Biryani
+ingredient,Smoked Sausage,ingredient dish,dish,Feijoada
+ingredient,Onions,ingredient dish,dish,Jollof Rice
+ingredient,Teaspoon Of Chili Powder,ingredient dish,dish,Tacos
+ingredient,Cups Of Red Wine,ingredient dish,dish,Coq Au Vin
+ingredient,Chicken,ingredient dish,dish,Nasi Goreng
+ingredient,Boneless Chicken,ingredient dish,dish,Butter Chicken
+dish,Borscht,dish owned,country,Russia
+ingredient,Chicken,ingredient dish,dish,Chicken Biryani
+ingredient,Bean Sprouts,ingredient dish,dish,Gado-Gado
+ingredient,Beef Ribs,ingredient dish,dish,Asado
+ingredient,Vanilla Extract,ingredient dish,dish,Pavlova
+ingredient,Cilantro,ingredient dish,dish,Tagine
+ingredient,Bay Leaves,ingredient dish,dish,Jollof Rice
+ingredient,Cloves,ingredient dish,dish,Sauerbraten
+ingredient,Chicken,ingredient dish,dish,Tagine
+ingredient,Thyme,ingredient dish,dish,Coq Au Vin
+ingredient,Lemon Zest,ingredient dish,dish,Sauerbraten
+ingredient,Eggs,ingredient dish,dish,Croissant
+ingredient,Chicken Or Mutton,ingredient dish,dish,Biryani
+dish,Moussaka,dish owned,country,Greece
+ingredient,Garlic,ingredient dish,dish,Feijoada
+ingredient,Tomatoes,ingredient dish,dish,Jollof Rice
+ingredient,Beef,ingredient dish,dish,Feijoada
+ingredient,Onions,ingredient dish,dish,Enchiladas
+ingredient,Eggs,ingredient dish,dish,Pasta Carbonara
+ingredient,Red Beans,ingredient dish,dish,Bandeja Paisa
+ingredient,Garlic,ingredient dish,dish,Enchiladas
+ingredient,Whipped Cream,ingredient dish,dish,Pavlova
+ingredient,Pancetta Or Guanciale,ingredient dish,dish,Spaghetti Carbonara
+ingredient,Vegetable Oil,ingredient dish,dish,Jollof Rice
+ingredient,Mint,ingredient dish,dish,Tabbouleh
+ingredient,Ginger,ingredient dish,dish,Pho
+ingredient,Bay Leaf,ingredient dish,dish,Moussaka
+ingredient,Garam Masala,ingredient dish,dish,Chicken Biryani
+ingredient,Chorizo Sausage,ingredient dish,dish,Bandeja Paisa
+ingredient,Tablespoon Of Vinegar,ingredient dish,dish,Tacos Al Pastor
+ingredient,Scotch Bonnet Peppers,ingredient dish,dish,Jollof Rice
+ingredient,Onions,ingredient dish,dish,Moussaka
+ingredient,Guajillo Chili,ingredient dish,dish,Tacos Al Pastor
+ingredient,Spaghetti,ingredient dish,dish,Spaghetti Carbonara
+dish,Chicken Biryani,dish owned,country,India
+ingredient,Chili Paste,ingredient dish,dish,Kung Pao Chicken
+ingredient,Lemon,ingredient dish,dish,Biryani
+ingredient,Oregano,ingredient dish,dish,Moussaka
+ingredient,Teaspoon Of Cumin,ingredient dish,dish,Tacos
+ingredient,Shrimp Or Chicken,ingredient dish,dish,Tom Yum Soup
+ingredient,Coriander,ingredient dish,dish,Tacos Al Pastor
+dish,Poutine,dish owned,country,Canada
+ingredient,Lettuce,ingredient dish,dish,Ceviche
+ingredient,Oregano,ingredient dish,dish,Tacos Al Pastor
+ingredient,Flour,ingredient dish,dish,Pizza
+dish,Kibbeh,dish owned,country,Lebanon
+ingredient,Red Onion,ingredient dish,dish,Ceviche
+ingredient,Cheese Sauce,ingredient dish,dish,Moussaka
+ingredient,Italian Seasoning,ingredient dish,dish,Lasagna
+ingredient,Cabbage,ingredient dish,dish,Gado-Gado
+ingredient,Turmeric Powder,ingredient dish,dish,Chicken Tikka Masala
+ingredient,Pandan Leaves,ingredient dish,dish,Nasi Lemak
+ingredient,Ricotta Cheese,ingredient dish,dish,Lasagna
+ingredient,Pepper,ingredient dish,dish,Moussaka
+ingredient,Parsley,ingredient dish,dish,Tabbouleh
+ingredient,Tomato Sauce,ingredient dish,dish,Chicken Tikka Masala
+ingredient,Ground Beef Or Chicken,ingredient dish,dish,Chiles Rellenos
+ingredient,Lime Juice,ingredient dish,dish,Ceviche
+ingredient,Chicken Breast,ingredient dish,dish,Kung Pao Chicken
+ingredient,Salt,ingredient dish,dish,Tabbouleh
+ingredient,1/Teaspoon Of Black Pepper,ingredient dish,dish,Tacos Al Pastor
+ingredient,Tomatoes,ingredient dish,dish,Chicken Tikka Masala
+ingredient,Spices,ingredient dish,dish,Jollof Rice
+ingredient,Salt Pepper To Taste,ingredient dish,dish,Tacos
+ingredient,Onions,ingredient dish,dish,Tacos Al Pastor
+ingredient,Onion,ingredient dish,dish,Chicken Tikka Masala
+ingredient,Firm Tofu,ingredient dish,dish,Pad Thai
+ingredient,Garam Masala,ingredient dish,dish,Chicken Tikka Masala
+ingredient,Pancetta,ingredient dish,dish,Spaghetti Carbonara
+ingredient,Coriander,ingredient dish,dish,Enchiladas
+ingredient,Coriander,ingredient dish,dish,Tagine
+dish,Lamington,dish owned,country,Australia
+ingredient,Cumin Seeds,ingredient dish,dish,Chicken Biryani
+dish,Couscous,dish owned,country,Algeria
+ingredient,Cabbage,ingredient dish,dish,Borscht
+ingredient,Garlic,ingredient dish,dish,Chicken Tikka Masala
+ingredient,Sriracha,ingredient dish,dish,Pho
+ingredient,Cashew Nuts,ingredient dish,dish,Butter Chicken
+ingredient,Onions,ingredient dish,dish,Koshari
+ingredient,Tomatoes,ingredient dish,dish,Tabbouleh
+ingredient,Vegetable Oil,ingredient dish,dish,Enchiladas
+ingredient,Bay Leaves,ingredient dish,dish,Chicken Biryani
+ingredient,Tortillas,ingredient dish,dish,Tacos
+ingredient,Red Chili Powder,ingredient dish,dish,Butter Chicken
+ingredient,Oil,ingredient dish,dish,Butter Chicken
+ingredient,Lentils,ingredient dish,dish,Koshari
+ingredient,A Variety Of Spices,ingredient dish,dish,Biryani
+ingredient,Ground Beef,ingredient dish,dish,Chiles Rellenos
+ingredient,Chili Powder,ingredient dish,dish,Butter Chicken
+ingredient,Water,ingredient dish,dish,Ugali
+ingredient,Tomatoes,ingredient dish,dish,Butter Chicken
+ingredient,Tofu,ingredient dish,dish,Pad Thai
+ingredient,Potatoes,ingredient dish,dish,Buur
+ingredient,Raisins,ingredient dish,dish,Chiles Rellenos
+ingredient,Grilled Vegetables,ingredient dish,dish,Asado
+ingredient,Pepper,ingredient dish,dish,Momos
+ingredient,Red Bell Peppers,ingredient dish,dish,Jollof Rice
+ingredient,Butter,ingredient dish,dish,Butter Chicken
+dish,Sushi,dish owned,country,Japan
+ingredient,Tomato,ingredient dish,dish,Butter Chicken
+ingredient,Gingerbread Cookies,ingredient dish,dish,Sauerbraten
+ingredient,Ginger,ingredient dish,dish,Chicken Tikka Masala
+ingredient,Bulgur Wheat,ingredient dish,dish,Tabbouleh
+ingredient,Salt,ingredient dish,dish,Lasagna
+ingredient,Pepper,ingredient dish,dish,Chicken Tikka Masala
+ingredient,Tomato Purée,ingredient dish,dish,Chicken Tikka Masala
+ingredient,Wasabi,ingredient dish,dish,Sushi
+ingredient,Garlic,ingredient dish,dish,Biryani
+ingredient,Garlic,ingredient dish,dish,Kung Pao Chicken
+ingredient,Red Wine,ingredient dish,dish,Sauerbraten
+ingredient,Soy Sauce,ingredient dish,dish,Nasi Goreng
+ingredient,Cheese Curds,ingredient dish,dish,Poutine
+ingredient,Ginger,ingredient dish,dish,Momos
+ingredient,Salt,ingredient dish,dish,Pizza
+ingredient,Ground Beef,ingredient dish,dish,Bandeja Paisa
+ingredient,Olives,ingredient dish,dish,Chiles Rellenos
+ingredient,White Sugar,ingredient dish,dish,Pavlova
+ingredient,Cardamom,ingredient dish,dish,Biryani
+ingredient,Green Olives,ingredient dish,dish,Tagine
+ingredient,Garlic Paste,ingredient dish,dish,Chicken Tikka Masala
+ingredient,Lemon Juice,ingredient dish,dish,Chicken Tikka Masala
+ingredient,Spices,ingredient dish,dish,Biryani
+dish,Chiles Rellenos,dish owned,country,Mexico
+ingredient,Coriander Leaves,ingredient dish,dish,Chicken Biryani
+ingredient,Bay Leaf,ingredient dish,dish,Coq Au Vin
+ingredient,Eggplants,ingredient dish,dish,Moussaka
+ingredient,Thyme,ingredient dish,dish,Jollof Rice
+ingredient,Beets,ingredient dish,dish,Borscht
+ingredient,Butter,ingredient dish,dish,Coq Au Vin
+ingredient,Cup Tomato Sauce,ingredient dish,dish,Margherita Pizza
+ingredient,Beef Or Chicken,ingredient dish,dish,Tacos
+ingredient,Cumin,ingredient dish,dish,Tagine
+ingredient,Sushi Rice,ingredient dish,dish,Sushi
+ingredient,Orange Slices,ingredient dish,dish,Feijoada
+ingredient,Flour,ingredient dish,dish,Chiles Rellenos
+ingredient,Nutmeg,ingredient dish,dish,Moussaka
+ingredient,Gochujang Sauce,ingredient dish,dish,Bibimbap
+ingredient,Peanut Sauce,ingredient dish,dish,Gado-Gado
+ingredient,Tomatoes,ingredient dish,dish,Pizza
+ingredient,Marinated Pork,ingredient dish,dish,Tacos Al Pastor
+ingredient,Fried Egg,ingredient dish,dish,Bibimbap
+ingredient,Onion,ingredient dish,dish,Feijoada
+ingredient,Lime,ingredient dish,dish,Tacos
+ingredient,Soy Sauce,ingredient dish,dish,Kottu Roti
+ingredient,Tomato Sauce,ingredient dish,dish,Margherita Pizza
+ingredient,Lime,ingredient dish,dish,Pad Thai
+ingredient,Sugar,ingredient dish,dish,Pavlova
+dish,Spaghetti Carbonara,dish owned,country,Italy
+ingredient,Beef Meat,ingredient dish,dish,Feijoada
+ingredient,Parsley,ingredient dish,dish,Tagine
+ingredient,Onions,ingredient dish,dish,Buur
+ingredient,Dough,ingredient dish,dish,Pizza
+ingredient,Lemon,ingredient dish,dish,Tagine
+ingredient,Salt,ingredient dish,dish,Paella
+ingredient,Parmesan Cheese,ingredient dish,dish,Spaghetti Carbonara
+ingredient,Orange Zest,ingredient dish,dish,Feijoada
+ingredient,Sugar,ingredient dish,dish,Margherita Pizza
+ingredient,Chicken,ingredient dish,dish,Kung Pao Chicken
+ingredient,Olive Oil,ingredient dish,dish,Couscous
+ingredient,Black Pepper,ingredient dish,dish,Spaghetti Carbonara
+ingredient,Cornstarch,ingredient dish,dish,Kung Pao Chicken
+ingredient,Hogao Sauce,ingredient dish,dish,Bandeja Paisa
+ingredient,Chili Peppers,ingredient dish,dish,Enchiladas
+ingredient,Garlic,ingredient dish,dish,Chicken Biryani
+ingredient,Nori,ingredient dish,dish,Sushi
+ingredient,Garlic,ingredient dish,dish,Kottu Roti
+ingredient,Tomatoes,ingredient dish,dish,Tacos
+ingredient,Green Onions,ingredient dish,dish,Tabbouleh
+ingredient,Mint,ingredient dish,dish,Chicken Biryani
+ingredient,Palm Sugar,ingredient dish,dish,Pad Thai
+ingredient,Seaweed,ingredient dish,dish,Sushi
+ingredient,Fresh Thyme,ingredient dish,dish,Coq Au Vin
+dish,Pizza,dish owned,country,Italy
+ingredient,Egg,ingredient dish,dish,Nasi Goreng
+ingredient,Shrimp Or Chicken,ingredient dish,dish,Pad Thai
+ingredient,Egg,ingredient dish,dish,Chiles Rellenos
+ingredient,Raw Fish,ingredient dish,dish,Sushi
+ingredient,Cilantro,ingredient dish,dish,Enchiladas
+ingredient,Pancetta,ingredient dish,dish,Pasta Carbonara
+ingredient,Potato,ingredient dish,dish,Moussaka
+ingredient,Corn Tortillas,ingredient dish,dish,Enchiladas
+ingredient,Guacamole,ingredient dish,dish,Tacos
+ingredient,All-Purpose Flour,ingredient dish,dish,Momos
+ingredient,Chili Peppers,ingredient dish,dish,Tom Yum Soup
+ingredient,1/Cup Of Pineapple Juice,ingredient dish,dish,Tacos Al Pastor
+dish,Gado-Gado,dish owned,country,Indonesia
+ingredient,Flour,ingredient dish,dish,Moussaka
+ingredient,Salsa Verde,ingredient dish,dish,Tacos Al Pastor
+ingredient,Oil,ingredient dish,dish,Kottu Roti
+ingredient,Olive Oil,ingredient dish,dish,Margherita Pizza
+ingredient,Garlic,ingredient dish,dish,Borscht
+ingredient,Salt,ingredient dish,dish,Ceviche
+dish,Bibimbap,dish owned,country,South Korea
+ingredient,Turmeric Powder,ingredient dish,dish,Butter Chicken
+ingredient,Onions,ingredient dish,dish,Tagine
+dish,Koshari,dish owned,country,Egypt
+ingredient,Ginger,ingredient dish,dish,Kung Pao Chicken
+ingredient,Tomato Puree,ingredient dish,dish,Chicken Tikka Masala
+ingredient,Pepper,ingredient dish,dish,Asado
+ingredient,Garlic,ingredient dish,dish,Paella
+ingredient,Desiccated Coconut,ingredient dish,dish,Lamington
+ingredient,Vegetable Oil,ingredient dish,dish,Nasi Goreng
+dish,Asado,dish owned,country,Argentina
+ingredient,Cumin,ingredient dish,dish,Momos
+ingredient,Olives,ingredient dish,dish,Tagine
+ingredient,Ghee,ingredient dish,dish,Chicken Biryani
+ingredient,Pork Shoulder,ingredient dish,dish,Tacos Al Pastor
+ingredient,Green Beans,ingredient dish,dish,Paella
+ingredient,All-Purpose Flour,ingredient dish,dish,Margherita Pizza
+ingredient,Coriander Leaves,ingredient dish,dish,Butter Chicken
+ingredient,Dried Guajillo Peppers,ingredient dish,dish,Tacos Al Pastor
+dish,Momos,dish owned,country,Nepal
+dish,Dish,dish owned,country,Country
+ingredient,Spices,ingredient dish,dish,Kibbeh
+ingredient,Paprika,ingredient dish,dish,Paella
+ingredient,Kecap Manis,ingredient dish,dish,Nasi Goreng
+ingredient,Eggs,ingredient dish,dish,Nasi Goreng
+ingredient,Garlic,ingredient dish,dish,Buur
+ingredient,Lemon,ingredient dish,dish,Paella
+ingredient,Fried Onions,ingredient dish,dish,Biryani
+ingredient,Lemon Juice,ingredient dish,dish,Biryani
+ingredient,Rice,ingredient dish,dish,Bibimbap
+ingredient,Star Anise,ingredient dish,dish,Pho
+ingredient,Cinnamon,ingredient dish,dish,Biryani
+ingredient,Garlic,ingredient dish,dish,Lasagna
+ingredient,Tomatoes,ingredient dish,dish,Moussaka
+ingredient,Beef Jerky,ingredient dish,dish,Feijoada
+ingredient,Vegetables,ingredient dish,dish,Bibimbap
+dish,Biryani,dish owned,country,India
+ingredient,Yogurt,ingredient dish,dish,Butter Chicken
+dish,Lasagna,dish owned,country,Italy
+ingredient,Onion,ingredient dish,dish,Momos
+ingredient,Beef,ingredient dish,dish,Pho
+ingredient,Kaffir Lime Leaves,ingredient dish,dish,Tom Yum Soup
+ingredient,Pounds Of Pork,ingredient dish,dish,Tacos Al Pastor
+ingredient,Salt,ingredient dish,dish,Asado
+ingredient,Fish Sauce,ingredient dish,dish,Tom Yum Soup
+ingredient,Bean Sprouts,ingredient dish,dish,Pad Thai
+ingredient,Green Chili,ingredient dish,dish,Chicken Tikka Masala
+ingredient,Vinegar,ingredient dish,dish,Kung Pao Chicken
+ingredient,Tablespoons Of All-Purpose Flour,ingredient dish,dish,Coq Au Vin
+ingredient,Bell Peppers,ingredient dish,dish,Kung Pao Chicken
+ingredient,Olive Oil,ingredient dish,dish,Tagine
+dish,Ceviche,dish owned,country,Peru
+ingredient,Garlic,ingredient dish,dish,Coq Au Vin
+ingredient,Meat,ingredient dish,dish,Biryani
+ingredient,Coconut Rice,ingredient dish,dish,Nasi Lemak
+ingredient,Soy Sauce,ingredient dish,dish,Momos
+ingredient,Salt,ingredient dish,dish,Tacos Al Pastor
+ingredient,Basil,ingredient dish,dish,Pizza
+ingredient,Pecorino Romano Cheese,ingredient dish,dish,Spaghetti Carbonara
+ingredient,Ground Beef Or Cheese,ingredient dish,dish,Chiles Rellenos
+ingredient,Corn,ingredient dish,dish,Ceviche
+ingredient,Rice,ingredient dish,dish,Sushi
+ingredient,Onions,ingredient dish,dish,Lasagna
+ingredient,Cilantro,ingredient dish,dish,Chicken Tikka Masala
+ingredient,Beef Or Pork,ingredient dish,dish,Borscht
+ingredient,Sausage,ingredient dish,dish,Feijoada
+ingredient,Chicken Or Meat,ingredient dish,dish,Biryani
+ingredient,Chicken/Mutton/Vegetables,ingredient dish,dish,Biryani
+ingredient,Raw Fish,ingredient dish,dish,Ceviche
+ingredient,Oregano,ingredient dish,dish,Pizza
+dish,Butter Chicken,dish owned,country,India
+ingredient,Green Chili Peppers,ingredient dish,dish,Chicken Biryani
+ingredient,Spaghetti,ingredient dish,dish,Pasta Carbonara
+ingredient,Toppings Of Choice,ingredient dish,dish,Pizza
+ingredient,Feta Cheese,ingredient dish,dish,Moussaka
+ingredient,Béchamel Sauce,ingredient dish,dish,Moussaka
+ingredient,Tomatoes,ingredient dish,dish,Enchiladas
+ingredient,Ground Lamb Or Beef,ingredient dish,dish,Moussaka
+ingredient,Bean Sprouts,ingredient dish,dish,Pho
+ingredient,Tomatoes,ingredient dish,dish,Paella
+ingredient,Rice,ingredient dish,dish,Chicken Biryani
+ingredient,Mushrooms,ingredient dish,dish,Tom Yum Soup
+ingredient,Chicken,ingredient dish,dish,Paella
+ingredient,Salt,ingredient dish,dish,Moussaka
+ingredient,Salt,ingredient dish,dish,Jollof Rice
+ingredient,Chimichurri Sauce,ingredient dish,dish,Asado
+ingredient,Vinegar,ingredient dish,dish,Sauerbraten
+ingredient,Cilantro,ingredient dish,dish,Biryani
+ingredient,Ginger,ingredient dish,dish,Curry
+ingredient,Sour Cream,ingredient dish,dish,Tacos
+ingredient,Breadcrumbs,ingredient dish,dish,Moussaka
+ingredient,Fried Egg,ingredient dish,dish,Bandeja Paisa
+ingredient,Shallots,ingredient dish,dish,Nasi Goreng
+ingredient,Salt,ingredient dish,dish,Coq Au Vin
+ingredient,Juniper Berries,ingredient dish,dish,Sauerbraten
+dish,Chicken Tikka Masala,dish owned,country,India
+ingredient,Fenugreek,ingredient dish,dish,Butter Chicken
+ingredient,Chorizo,ingredient dish,dish,Paella
+ingredient,Cilantro,ingredient dish,dish,Momos
+ingredient,Lime Juice,ingredient dish,dish,Pad Thai
+ingredient,Vinegar,ingredient dish,dish,Tacos Al Pastor
+ingredient,Onions,ingredient dish,dish,Kottu Roti
+ingredient,Yogurt,ingredient dish,dish,Chicken Tikka Masala
+ingredient,Chili Powder,ingredient dish,dish,Chicken Tikka Masala
+dish,Margherita Pizza,dish owned,country,Italy
+ingredient,Garlic,ingredient dish,dish,Curry
+ingredient,Ginger Paste,ingredient dish,dish,Chicken Tikka Masala
+ingredient,Ginger,ingredient dish,dish,Chicken Biryani
+ingredient,Ground Beef,ingredient dish,dish,Lasagna
+ingredient,Farofa,ingredient dish,dish,Feijoada
+ingredient,Saffron,ingredient dish,dish,Paella
+ingredient,Saffron,ingredient dish,dish,Chicken Biryani
+ingredient,Avocado,ingredient dish,dish,Sushi
+ingredient,Teaspoon Of Salt,ingredient dish,dish,Tacos Al Pastor
+ingredient,Black Peppercorns,ingredient dish,dish,Sauerbraten
+ingredient,Cinnamon,ingredient dish,dish,Tagine
+ingredient,Chicken Or Lamb,ingredient dish,dish,Biryani
+ingredient,Sweet Potato,ingredient dish,dish,Ceviche
+ingredient,Ground Coriander,ingredient dish,dish,Chicken Tikka Masala
+ingredient,Lime,ingredient dish,dish,Pho
+ingredient,Boneless Chicken,ingredient dish,dish,Kung Pao Chicken
+ingredient,Ginger,ingredient dish,dish,Sushi
+ingredient,Butter,ingredient dish,dish,Moussaka
+ingredient,Pepper,ingredient dish,dish,Feijoada
+ingredient,Carrots,ingredient dish,dish,Tagine
+ingredient,Chicken Pieces,ingredient dish,dish,Chicken Biryani
+ingredient,Red Chili Powder,ingredient dish,dish,Chicken Biryani
+ingredient,Soy Sauce,ingredient dish,dish,Sushi
+ingredient,Coconut Milk,ingredient dish,dish,Nasi Lemak
+ingredient,Gravy,ingredient dish,dish,Poutine
+ingredient,Sesame Oil,ingredient dish,dish,Bibimbap
+ingredient,Avocado,ingredient dish,dish,Tacos
+ingredient,Ground Lamb,ingredient dish,dish,Moussaka
+dish,Buur,dish owned,country,Mongolia
+dish,Feijoada,dish owned,country,Brazil
+ingredient,Spices Such As Turmeric,ingredient dish,dish,Biryani
+ingredient,Shredded Chicken,ingredient dish,dish,Enchiladas
+ingredient,Salt,ingredient dish,dish,Chicken Tikka Masala
+ingredient,Onions,ingredient dish,dish,Butter Chicken
+ingredient,Paprika,ingredient dish,dish,Chicken Tikka Masala
+ingredient,Fresh Basil Leaves,ingredient dish,dish,Margherita Pizza
+ingredient,Shrimp,ingredient dish,dish,Biryani
+ingredient,Pepper,ingredient dish,dish,Buur
+ingredient,Onions,ingredient dish,dish,Sauerbraten
+ingredient,Cucumber,ingredient dish,dish,Nasi Lemak
+ingredient,Salt,ingredient dish,dish,Feijoada
+ingredient,Water,ingredient dish,dish,Margherita Pizza
+ingredient,Pork,ingredient dish,dish,Feijoada
+ingredient,Mozzarella Cheese,ingredient dish,dish,Margherita Pizza
+ingredient,Lemon Juice,ingredient dish,dish,Chicken Biryani
+ingredient,Ounces Shredded Mozzarella Cheese,ingredient dish,dish,Margherita Pizza
+ingredient,Lime Juice,ingredient dish,dish,Tacos Al Pastor
+ingredient,Cilantro,ingredient dish,dish,Tacos Al Pastor
+ingredient,Lettuce,ingredient dish,dish,Enchiladas
+ingredient,Eggs,ingredient dish,dish,Chiles Rellenos
+ingredient,Lasagna Noodles,ingredient dish,dish,Lasagna
+ingredient,Chicken Broth,ingredient dish,dish,Paella
+ingredient,Bacon,ingredient dish,dish,Coq Au Vin
+ingredient,Chili Flakes,ingredient dish,dish,Pad Thai
+ingredient,Cilantro,ingredient dish,dish,Chiles Rellenos
+ingredient,Cheese,ingredient dish,dish,Enchiladas
+ingredient,Onion,ingredient dish,dish,Chiles Rellenos
+ingredient,Cumin,ingredient dish,dish,Koshari
+ingredient,Olive Oil,ingredient dish,dish,Paella
+ingredient,Milk,ingredient dish,dish,Croissant
+ingredient,Ghee,ingredient dish,dish,Butter Chicken
+ingredient,Cups Of Chicken Broth,ingredient dish,dish,Coq Au Vin
+ingredient,Carrots,ingredient dish,dish,Sauerbraten
+ingredient,Cinnamon,ingredient dish,dish,Chicken Biryani
+ingredient,Chicken Or Beef,ingredient dish,dish,Enchiladas
+ingredient,Chicken,ingredient dish,dish,Butter Chicken
+dish,Bibimbap,dish owned,country,Korea
+ingredient,Raw Or Cooked Fish,ingredient dish,dish,Sushi
+ingredient,Chopped Pineapple,ingredient dish,dish,Tacos Al Pastor
+ingredient,Cloves Of Garlic,ingredient dish,dish,Tacos Al Pastor
+ingredient,Paprika,ingredient dish,dish,Tagine

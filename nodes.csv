@@ -1,0 +1,3213 @@
+Node Type,Name,id
+ingredient,Chicken,0
+ingredient,Yogurt,0
+ingredient,Ginger,0
+ingredient,Garlic,0
+ingredient,Garam Masala,0
+ingredient,Chili Powder,0
+ingredient,Cumin,0
+ingredient,Tomato Puree,0
+ingredient,Cream,0
+ingredient,Butter,0
+ingredient,Salt,0
+ingredient,Coriander,0
+country,India,0
+dish,Chicken Tikka Masala,0
+ingredient,Basmati Rice,1
+ingredient,Chicken,1
+ingredient,Yogurt,1
+ingredient,Onions,1
+ingredient,Garlic,1
+ingredient,Ginger,1
+ingredient,Tomatoes,1
+ingredient,Spices,1
+ingredient,Saffron,1
+ingredient,Mint Leaves,1
+ingredient,Fried Onions,1
+country,India,1
+dish,Chicken Biryani,1
+ingredient,Chicken,2
+ingredient,Yogurt,2
+ingredient,Tomatoes,2
+ingredient,Onions,2
+ingredient,Garlic,2
+ingredient,Ginger,2
+ingredient,Butter,2
+ingredient,Cream,2
+ingredient,Spices,2
+ingredient,Fenugreek Leaves,2
+country,India,2
+dish,Butter Chicken,2
+ingredient,Basmati Rice,3
+ingredient,Chicken,3
+ingredient,Onions,3
+ingredient,Ginger,3
+ingredient,Garlic,3
+ingredient,Yogurt,3
+ingredient,Tomatoes,3
+ingredient,Spices,3
+ingredient,Mint Leaves,3
+ingredient,Coriander Leaves,3
+ingredient,Saffron,3
+ingredient,Ghee,3
+country,India,3
+dish,Chicken Biryani,3
+ingredient,Chicken,4
+ingredient,Yogurt,4
+ingredient,Lemon Juice,4
+ingredient,Ginger,4
+ingredient,Garlic,4
+ingredient,Garam Masala,4
+ingredient,Cumin,4
+ingredient,Coriander,4
+ingredient,Turmeric,4
+ingredient,Paprika,4
+ingredient,Tomato Paste,4
+ingredient,Butter,4
+ingredient,Cream,4
+ingredient,Salt,4
+ingredient,Cilantro,4
+country,India,4
+dish,Chicken Tikka Masala,4
+ingredient,Chicken,5
+ingredient,Yogurt,5
+ingredient,Butter,5
+ingredient,Tomatoes,5
+ingredient,Onions,5
+ingredient,Garlic,5
+ingredient,Ginger,5
+ingredient,Cream,5
+ingredient,Spices,5
+country,India,5
+dish,Butter Chicken,5
+ingredient,Chicken,6
+ingredient,Yogurt,6
+ingredient,Ginger Garlic Paste,6
+ingredient,Garam Masala,6
+ingredient,Turmeric Powder,6
+ingredient,Red Chili Powder,6
+ingredient,Butter,6
+ingredient,Tomato Puree,6
+ingredient,Cream,6
+ingredient,Kasuri Methi,6
+ingredient,Salt,6
+country,India,6
+dish,Butter Chicken,6
+ingredient,Basmati Rice,7
+ingredient,Chicken Or Lamb Meat,7
+ingredient,Onions,7
+ingredient,Tomatoes,7
+ingredient,Ginger,7
+ingredient,Garlic,7
+ingredient,Yogurt,7
+ingredient,Spices,7
+ingredient,Mint Leaves,7
+ingredient,Coriander Leaves,7
+ingredient,Fried Onions,7
+ingredient,Lemon Juice,7
+country,India,7
+dish,Biryani,7
+ingredient,Chicken,8
+ingredient,Yogurt,8
+ingredient,Onions,8
+ingredient,Tomatoes,8
+ingredient,Butter,8
+ingredient,Garlic,8
+ingredient,Ginger,8
+ingredient,Garam Masala,8
+ingredient,Cumin,8
+ingredient,Turmeric,8
+ingredient,Chili Powder,8
+ingredient,Cream,8
+ingredient,Cilantro,8
+country,India,8
+dish,Butter Chicken,8
+ingredient,Chicken,9
+ingredient,Ghee,9
+ingredient,Ginger-Garlic Paste,9
+ingredient,Tomatoes,9
+ingredient,Spices,9
+ingredient,Cream,9
+ingredient,Fenugreek Leaves,9
+country,India,9
+dish,Butter Chicken,9
+ingredient,Basmati Rice,10
+ingredient,Chicken Or Mutton,10
+ingredient,Onions,10
+ingredient,Tomatoes,10
+ingredient,Yogurt,10
+ingredient,Ginger-Garlic Paste,10
+ingredient,Spices,10
+ingredient,Saffron,10
+ingredient,Fried Onions,10
+ingredient,Cashews,10
+ingredient,Raisins,10
+ingredient,Clarified Butter,10
+country,India,10
+dish,Biryani,10
+ingredient,Chicken,11
+ingredient,Red Wine,11
+ingredient,Bacon,11
+ingredient,Mushrooms,11
+ingredient,Onions,11
+ingredient,Garlic,11
+ingredient,Thyme,11
+ingredient,Bay Leaves,11
+ingredient,Flour,11
+ingredient,Butter,11
+ingredient,Salt,11
+ingredient,Pepper,11
+country,France,11
+dish,Coq Au Vin,11
+ingredient,Rice,12
+ingredient,Raw Fish,12
+ingredient,Seaweed,12
+ingredient,Soy Sauce,12
+ingredient,Pickled Ginger,12
+ingredient,Wasabi,12
+country,Japan,12
+dish,Sushi,12
+ingredient,Rice,13
+ingredient,Raw Fish,13
+ingredient,Seaweed,13
+ingredient,Soy Sauce,13
+ingredient,Wasabi,13
+ingredient,Ginger,13
+country,Japan,13
+dish,Sushi,13
+ingredient,Flour,14
+ingredient,Yeast,14
+ingredient,Water,14
+ingredient,Tomatoes,14
+ingredient,Mozzarella Cheese,14
+ingredient,Olive Oil,14
+ingredient,Basil,14
+country,Italy,14
+dish,Pizza,14
+ingredient,Corn Tortillas,15
+ingredient,Beef Or Chicken,15
+ingredient,Onion,15
+ingredient,Cilantro,15
+ingredient,Lime,15
+ingredient,Salsa,15
+ingredient,Cheese,15
+country,Mexico,15
+dish,Tacos,15
+ingredient,Chicken,16
+ingredient,Yogurt,16
+ingredient,Tomatoes,16
+ingredient,Onions,16
+ingredient,Garlic,16
+ingredient,Ginger,16
+ingredient,Spices,16
+country,India,16
+dish,Chicken Tikka Masala,16
+ingredient,Lemongrass,17
+ingredient,Kaffir Lime Leaves,17
+ingredient,Galangal,17
+ingredient,Mushrooms,17
+ingredient,Shrimp Or Chicken,17
+ingredient,Fish Sauce,17
+ingredient,Lime Juice,17
+ingredient,Chili Peppers,17
+country,Thailand,17
+dish,Tom Yum Soup,17
+ingredient,Eggplant,18
+ingredient,Ground Lamb Or Beef,18
+ingredient,Tomatoes,18
+ingredient,Onions,18
+ingredient,Garlic,18
+ingredient,Cinnamon,18
+ingredient,Nutmeg,18
+ingredient,Cheese Sauce,18
+country,Greece,18
+dish,Moussaka,18
+ingredient,Basmati Rice,19
+ingredient,Chicken,19
+ingredient,Onions,19
+ingredient,Tomatoes,19
+ingredient,Yogurt,19
+ingredient,Ginger-Garlic Paste,19
+ingredient,Green Chilies,19
+ingredient,Bay Leaves,19
+ingredient,Cinnamon,19
+ingredient,Cloves,19
+ingredient,Cardamom,19
+ingredient,Turmeric,19
+ingredient,Red Chili Powder,19
+ingredient,Garam Masala,19
+ingredient,Saffron,19
+ingredient,Mint Leaves,19
+ingredient,Coriander Leaves,19
+ingredient,Lemon Juice,19
+country,India,19
+dish,Chicken Biryani,19
+ingredient,Beef Ribs,20
+ingredient,Salt,20
+ingredient,Pepper,20
+ingredient,Chimichurri Sauce,20
+country,Argentina,20
+dish,Asado,20
+ingredient,Basmati Rice,21
+ingredient,Chicken,21
+ingredient,Onions,21
+ingredient,Tomatoes,21
+ingredient,Ginger,21
+ingredient,Garlic,21
+ingredient,Yogurt,21
+ingredient,Spices,21
+ingredient,Saffron Strands,21
+ingredient,Mint Leaves,21
+ingredient,Ghee,21
+country,India,21
+dish,Chicken Biryani,21
+ingredient,Chicken,22
+ingredient,Yogurt,22
+ingredient,Ginger,22
+ingredient,Garlic,22
+ingredient,Tomato,22
+ingredient,Onion,22
+ingredient,Butter,22
+ingredient,Cream,22
+ingredient,Spices,22
+ingredient,Chili Powder,22
+ingredient,Salt,22
+ingredient,Cilantro,22
+country,India,22
+dish,Butter Chicken,22
+ingredient,Coconut Rice,23
+ingredient,Sambal Sauce,23
+ingredient,Fried Anchovies,23
+ingredient,Peanuts,23
+ingredient,Cucumber,23
+ingredient,Hard-Boiled Eggs,23
+country,Malaysia,23
+dish,Nasi Lemak,23
+ingredient,Chicken,24
+ingredient,Red Wine,24
+ingredient,Mushrooms,24
+ingredient,Onions,24
+ingredient,Bacon,24
+ingredient,Garlic,24
+ingredient,Thyme,24
+ingredient,Bay Leaf,24
+ingredient,Flour,24
+ingredient,Butter,24
+ingredient,Salt,24
+ingredient,Pepper,24
+country,France,24
+dish,Coq Au Vin,24
+ingredient,Egg Whites,25
+ingredient,Sugar,25
+ingredient,Cornstarch,25
+ingredient,White Vinegar,25
+ingredient,Vanilla Extract,25
+ingredient,Whipped Cream,25
+ingredient,Fresh Fruits,25
+country,Australia,25
+dish,Pavlova,25
+ingredient,French Fries,26
+ingredient,Cheese Curds,26
+ingredient,Gravy,26
+country,Canada,26
+dish,Poutine,26
+ingredient,Chicken,27
+ingredient,Red Wine,27
+ingredient,Pearl Onions,27
+ingredient,Mushrooms,27
+ingredient,Bacon,27
+ingredient,Garlic,27
+ingredient,Thyme,27
+ingredient,Bay Leaves,27
+ingredient,Flour,27
+ingredient,Butter,27
+ingredient,Salt,27
+ingredient,Pepper,27
+country,France,27
+dish,Coq Au Vin,27
+country,Lebanon,28
+dish,Shawarma,28
+ingredient,Chicken,29
+ingredient,Yogurt,29
+ingredient,Butter,29
+ingredient,Garlic,29
+ingredient,Ginger,29
+ingredient,Tomatoes,29
+ingredient,Cream,29
+ingredient,Garam Masala,29
+ingredient,Turmeric,29
+ingredient,Chili Powder,29
+ingredient,Cumin,29
+ingredient,Coriander,29
+ingredient,Salt,29
+ingredient,Cardamom,29
+ingredient,Fenugreek Leaves,29
+country,India,29
+dish,Butter Chicken,29
+ingredient,Sushi Rice,30
+ingredient,Nori,30
+ingredient,Soy Sauce,30
+ingredient,Wasabi,30
+ingredient,Pickled Ginger,30
+country,Japan,30
+dish,Sushi,30
+ingredient,Eggplant,31
+ingredient,Ground Beef,31
+ingredient,Onions,31
+ingredient,Garlic,31
+ingredient,Tomatoes,31
+ingredient,Potatoes,31
+ingredient,Béchamel Sauce,31
+ingredient,Olive Oil,31
+ingredient,Salt,31
+ingredient,Pepper,31
+country,Greece,31
+dish,Moussaka,31
+ingredient,Basmati Rice,32
+ingredient,Chicken/Lamb/Beef,32
+ingredient,Onions,32
+ingredient,Tomatoes,32
+ingredient,Yogurt,32
+ingredient,Ginger,32
+ingredient,Garlic,32
+ingredient,Green Chili Peppers,32
+ingredient,Ghee,32
+ingredient,Spices,32
+ingredient,Saffron,32
+ingredient,Mint Leaves,32
+ingredient,Coriander Leaves,32
+country,India,32
+dish,Biryani,32
+ingredient,Beef Roast,33
+ingredient,Onions,33
+ingredient,Carrots,33
+ingredient,Celery,33
+ingredient,Vinegar,33
+ingredient,Red Wine,33
+ingredient,Bay Leaves,33
+ingredient,Cloves,33
+ingredient,Juniper Berries,33
+ingredient,Black Peppercorns,33
+ingredient,Flour,33
+ingredient,Sugar,33
+ingredient,Butter,33
+ingredient,Salt,33
+country,Germany,33
+dish,Sauerbraten,33
+ingredient,Ground Beef,34
+ingredient,Lasagna Noodles,34
+ingredient,Ricotta Cheese,34
+ingredient,Mozzarella Cheese,34
+ingredient,Parmesan Cheese,34
+ingredient,Tomato Sauce,34
+ingredient,Garlic,34
+ingredient,Onion,34
+ingredient,Olive Oil,34
+ingredient,Italian Seasoning,34
+country,Italy,34
+dish,Lasagna,34
+ingredient,Rice Noodles,35
+ingredient,Tofu,35
+ingredient,Eggs,35
+ingredient,Bean Sprouts,35
+ingredient,Garlic,35
+ingredient,Shallots,35
+ingredient,Tamarind Paste,35
+ingredient,Fish Sauce,35
+ingredient,Palm Sugar,35
+ingredient,Crushed Peanuts,35
+ingredient,Lime Juice,35
+ingredient,Chili Flakes,35
+country,Thailand,35
+dish,Pad Thai,35
+ingredient,Beef Roast,36
+ingredient,Onions,36
+ingredient,Carrots,36
+ingredient,Celery,36
+ingredient,Red Wine,36
+ingredient,Vinegar,36
+ingredient,Gingerbread Cookies,36
+ingredient,Bay Leaves,36
+ingredient,Cloves,36
+ingredient,Salt,36
+ingredient,Pepper,36
+country,Germany,36
+dish,Sauerbraten,36
+ingredient,Rice,37
+ingredient,Tomatoes,37
+ingredient,Onions,37
+ingredient,Red Bell Peppers,37
+ingredient,Scotch Bonnet Peppers,37
+ingredient,Tomato Paste,37
+ingredient,Vegetable Oil,37
+ingredient,Chicken Or Beef Stock,37
+ingredient,Garlic,37
+ingredient,Ginger,37
+ingredient,Thyme,37
+ingredient,Curry Powder,37
+ingredient,Bay Leaves,37
+ingredient,Salt,37
+ingredient,Seasoning Cubes,37
+country,Nigeria,37
+dish,Jollof Rice,37
+ingredient,Egg Whites,38
+ingredient,White Sugar,38
+ingredient,Cornstarch,38
+ingredient,White Vinegar,38
+ingredient,Vanilla Extract,38
+ingredient,Whipped Cream,38
+ingredient,Fresh Fruits,38
+country,New Zealand,38
+dish,Pavlova,38
+ingredient,Marinated Pork,39
+ingredient,Pineapple,39
+ingredient,Onion,39
+ingredient,Cilantro,39
+ingredient,Lime,39
+ingredient,Tortillas,39
+country,Mexico,39
+dish,Tacos Al Pastor,39
+ingredient,Poblano Peppers,40
+ingredient,Cheese,40
+ingredient,Ground Beef Or Chicken,40
+ingredient,Tomatoes,40
+ingredient,Onions,40
+ingredient,Garlic,40
+ingredient,Eggs,40
+ingredient,Flour,40
+ingredient,Vegetable Oil,40
+ingredient,Salt,40
+ingredient,Pepper,40
+ingredient,Cumin,40
+ingredient,Cilantro,40
+country,Mexico,40
+dish,Chiles Rellenos,40
+ingredient,Chicken,41
+ingredient,Butter,41
+ingredient,Tomato Puree,41
+ingredient,Onions,41
+ingredient,Garlic,41
+ingredient,Ginger,41
+ingredient,Cream,41
+ingredient,Spices,41
+ingredient,Yogurt,41
+country,India,41
+dish,Butter Chicken,41
+ingredient,Black Beans,42
+ingredient,Pork,42
+ingredient,Beef,42
+ingredient,Bacon,42
+ingredient,Sausage,42
+ingredient,Onions,42
+ingredient,Garlic,42
+ingredient,Bay Leaves,42
+ingredient,Orange Slices,42
+ingredient,Salt,42
+ingredient,Pepper,42
+country,Brazil,42
+dish,Feijoada,42
+ingredient,Ground Beef,43
+ingredient,Lasagna Noodles,43
+ingredient,Marinara Sauce,43
+ingredient,Ricotta Cheese,43
+ingredient,Mozzarella Cheese,43
+ingredient,Parmesan Cheese,43
+ingredient,Garlic,43
+ingredient,Onion,43
+ingredient,Olive Oil,43
+ingredient,Salt,43
+ingredient,Pepper,43
+country,Italy,43
+dish,Lasagna,43
+ingredient,Rice,44
+ingredient,Tomatoes,44
+ingredient,Onions,44
+ingredient,Red Bell Peppers,44
+ingredient,Scotch Bonnet Peppers,44
+ingredient,Garlic,44
+ingredient,Ginger,44
+ingredient,Vegetable Oil,44
+ingredient,Chicken Or Beef,44
+ingredient,Tomato Paste,44
+ingredient,Bay Leaves,44
+ingredient,Thyme,44
+ingredient,Curry Powder,44
+ingredient,Stock Cube,44
+ingredient,Salt,44
+ingredient,Black Pepper,44
+country,Nigeria,44
+dish,Jollof Rice,44
+ingredient,Chicken,45
+ingredient,Red Wine,45
+ingredient,Onions,45
+ingredient,Mushrooms,45
+ingredient,Garlic,45
+ingredient,Bacon,45
+ingredient,Thyme,45
+ingredient,Bay Leaves,45
+ingredient,Chicken Broth,45
+country,France,45
+dish,Coq Au Vin,45
+ingredient,Chicken,46
+ingredient,Basmati Rice,46
+ingredient,Onions,46
+ingredient,Tomatoes,46
+ingredient,Yogurt,46
+ingredient,Ginger,46
+ingredient,Garlic,46
+ingredient,Green Chilies,46
+ingredient,Turmeric Powder,46
+ingredient,Garam Masala,46
+ingredient,Cumin Seeds,46
+ingredient,Bay Leaves,46
+ingredient,Cardamom,46
+ingredient,Cinnamon,46
+ingredient,Cloves,46
+ingredient,Saffron,46
+ingredient,Mint Leaves,46
+country,India,46
+dish,Chicken Biryani,46
+country,Country,47
+dish,Dish,47
+ingredient,Chicken,48
+ingredient,Yogurt,48
+ingredient,Ginger-Garlic Paste,48
+ingredient,Lemon Juice,48
+ingredient,Turmeric Powder,48
+ingredient,Garam Masala,48
+ingredient,Red Chili Powder,48
+ingredient,Cumin Powder,48
+ingredient,Coriander Powder,48
+ingredient,Tomato Puree,48
+ingredient,Onions,48
+ingredient,Cream,48
+ingredient,Butter,48
+ingredient,Salt,48
+country,India,48
+dish,Chicken Tikka Masala,48
+ingredient,Chicken,49
+ingredient,Yogurt,49
+ingredient,Ginger,49
+ingredient,Garlic,49
+ingredient,Garam Masala,49
+ingredient,Turmeric,49
+ingredient,Chili Powder,49
+ingredient,Tomato Puree,49
+ingredient,Butter,49
+ingredient,Cream,49
+ingredient,Salt,49
+country,India,49
+dish,Butter Chicken,49
+ingredient,Chicken,50
+ingredient,Yogurt,50
+ingredient,Lemon Juice,50
+ingredient,Garam Masala,50
+ingredient,Ginger,50
+ingredient,Garlic,50
+ingredient,Cumin,50
+ingredient,Coriander,50
+ingredient,Turmeric,50
+ingredient,Paprika,50
+ingredient,Tomato Puree,50
+ingredient,Heavy Cream,50
+ingredient,Butter,50
+ingredient,Onions,50
+ingredient,Green Chili,50
+ingredient,Cilantro,50
+ingredient,Salt,50
+country,India,50
+dish,Chicken Tikka Masala,50
+ingredient,Chicken Breast,51
+ingredient,Peanuts,51
+ingredient,Dried Red Chilies,51
+ingredient,Sichuan Peppercorns,51
+ingredient,Ginger,51
+ingredient,Garlic,51
+ingredient,Soy Sauce,51
+ingredient,Vinegar,51
+ingredient,Sugar,51
+ingredient,Cornstarch,51
+ingredient,Vegetable Oil,51
+country,China,51
+dish,Kung Pao Chicken,51
+ingredient,Black Beans,52
+ingredient,Pork Meat,52
+ingredient,Orange Slices,52
+country,Brazil,52
+dish,Feijoada,52
+ingredient,Basmati Rice,53
+ingredient,Chicken,53
+ingredient,Onions,53
+ingredient,Tomatoes,53
+ingredient,Ginger,53
+ingredient,Garlic,53
+ingredient,Yogurt,53
+ingredient,Biryani Masala,53
+ingredient,Spices,53
+ingredient,Saffron,53
+ingredient,Mint,53
+ingredient,Coriander,53
+country,India,53
+dish,Chicken Biryani,53
+ingredient,Basmati Rice,54
+ingredient,Chicken Or Mutton,54
+ingredient,Onions,54
+ingredient,Tomatoes,54
+ingredient,Ginger-Garlic Paste,54
+ingredient,Yogurt,54
+ingredient,Spices,54
+ingredient,Saffron,54
+ingredient,Ghee,54
+ingredient,Crispy Fried Onions,54
+ingredient,Fresh Cilantro Leaves,54
+country,India,54
+dish,Biryani,54
+ingredient,Semolina,55
+ingredient,Vegetables,55
+ingredient,Olive Oil,55
+country,Algeria,55
+dish,Couscous,55
+ingredient,Cabbage,56
+ingredient,Beets,56
+ingredient,Potatoes,56
+ingredient,Carrots,56
+ingredient,Onions,56
+ingredient,Garlic,56
+ingredient,Beef Or Pork,56
+ingredient,Tomato Paste,56
+ingredient,Vinegar,56
+ingredient,Sour Cream,56
+country,Russia,56
+dish,Borscht,56
+ingredient,Lamb,57
+ingredient,Onions,57
+ingredient,Garlic,57
+ingredient,Ginger,57
+ingredient,Saffron,57
+ingredient,Turmeric,57
+ingredient,Cumin,57
+ingredient,Paprika,57
+ingredient,Cinnamon,57
+ingredient,Coriander,57
+ingredient,Parsley,57
+ingredient,Cilantro,57
+ingredient,Lemon,57
+ingredient,Olives,57
+ingredient,Tomatoes,57
+ingredient,Potatoes,57
+ingredient,Carrots,57
+ingredient,Preserved Lemons,57
+country,Morocco,57
+dish,Tagine,57
+ingredient,Basmati Rice,58
+ingredient,Chicken,58
+ingredient,Yogurt,58
+ingredient,Onions,58
+ingredient,Tomatoes,58
+ingredient,Ginger,58
+ingredient,Garlic,58
+ingredient,Green Chilies,58
+ingredient,Spices,58
+ingredient,Saffron,58
+ingredient,Mint Leaves,58
+ingredient,Coriander Leaves,58
+ingredient,Lemon,58
+country,India,58
+dish,Biryani,58
+ingredient,Basmati Rice,59
+ingredient,Chicken Pieces,59
+ingredient,Yogurt,59
+ingredient,Onions,59
+ingredient,Tomatoes,59
+ingredient,Ginger-Garlic Paste,59
+ingredient,Spices,59
+ingredient,Saffron Strands,59
+ingredient,Mint Leaves,59
+ingredient,Cilantro,59
+ingredient,Ghee,59
+country,India,59
+dish,Chicken Biryani,59
+ingredient,Rice,60
+ingredient,Assorted Vegetables,60
+ingredient,Beef,60
+ingredient,Gochujang Sauce,60
+ingredient,Sesame Oil,60
+ingredient,Soy Sauce,60
+ingredient,Garlic,60
+ingredient,Fried Egg,60
+country,Korea,60
+dish,Bibimbap,60
+ingredient,Flour,61
+ingredient,Yeast,61
+ingredient,Salt,61
+ingredient,Water,61
+ingredient,Tomato Sauce,61
+ingredient,Mozzarella Cheese,61
+ingredient,Basil,61
+ingredient,Olive Oil,61
+country,Italy,61
+dish,Margherita Pizza,61
+ingredient,Pork,62
+ingredient,Pineapple,62
+ingredient,Onion,62
+ingredient,Garlic,62
+ingredient,Achiote Paste,62
+ingredient,Guajillo Chili,62
+ingredient,Vinegar,62
+ingredient,Oregano,62
+ingredient,Cumin,62
+ingredient,Corn Tortillas,62
+country,Mexico,62
+dish,Tacos Al Pastor,62
+ingredient,Chicken,63
+ingredient,Yogurt,63
+ingredient,Ginger,63
+ingredient,Garlic,63
+ingredient,Tomato,63
+ingredient,Butter,63
+ingredient,Cream,63
+ingredient,Garam Masala,63
+ingredient,Turmeric,63
+ingredient,Cumin,63
+ingredient,Coriander,63
+ingredient,Chili Powder,63
+country,India,63
+dish,Butter Chicken,63
+ingredient,Rice Noodles,64
+ingredient,Shrimp,64
+ingredient,Tofu,64
+ingredient,Eggs,64
+ingredient,Garlic,64
+ingredient,Shallots,64
+ingredient,Tamarind Paste,64
+ingredient,Fish Sauce,64
+ingredient,Sugar,64
+ingredient,Peanuts,64
+ingredient,Lime,64
+ingredient,Bean Sprouts,64
+country,Thailand,64
+dish,Pad Thai,64
+ingredient,Rice,65
+ingredient,Chicken,65
+ingredient,Chorizo,65
+ingredient,Shrimp,65
+ingredient,Mussels,65
+ingredient,Saffron,65
+ingredient,Garlic,65
+ingredient,Onion,65
+ingredient,Bell Pepper,65
+ingredient,Tomato,65
+ingredient,Peas,65
+ingredient,Olive Oil,65
+ingredient,Chicken Broth,65
+country,Spain,65
+dish,Paella,65
+ingredient,Chicken,66
+ingredient,Yogurt,66
+ingredient,Ginger,66
+ingredient,Garlic,66
+ingredient,Spices,66
+ingredient,Tomato Puree,66
+ingredient,Butter,66
+ingredient,Cream,66
+country,India,66
+dish,Butter Chicken,66
+ingredient,Rice Noodles,67
+ingredient,Shrimp,67
+ingredient,Tofu,67
+ingredient,Bean Sprouts,67
+ingredient,Eggs,67
+ingredient,Garlic,67
+ingredient,Shallots,67
+ingredient,Peanuts,67
+ingredient,Lime,67
+ingredient,Fish Sauce,67
+ingredient,Tamarind Paste,67
+ingredient,Palm Sugar,67
+ingredient,Chili Flakes,67
+country,Thailand,67
+dish,Pad Thai,67
+ingredient,Chicken,68
+ingredient,Yogurt,68
+ingredient,Tomato Puree,68
+ingredient,Butter,68
+ingredient,Onion,68
+ingredient,Garlic,68
+ingredient,Ginger,68
+ingredient,Garam Masala,68
+ingredient,Turmeric,68
+ingredient,Cumin,68
+ingredient,Coriander,68
+ingredient,Chili Powder,68
+ingredient,Cream,68
+ingredient,Fenugreek Leaves,68
+ingredient,Salt,68
+country,India,68
+dish,Butter Chicken,68
+ingredient,Bulgur Wheat,69
+ingredient,Ground Lamb,69
+ingredient,Onion,69
+ingredient,Pine Nuts,69
+ingredient,Spices,69
+country,Lebanon,69
+dish,Kibbeh,69
+ingredient,Marinated Pork,70
+ingredient,Pineapple,70
+ingredient,Onion,70
+ingredient,Cilantro,70
+ingredient,Lime,70
+ingredient,Corn Tortillas,70
+country,Mexico,70
+dish,Tacos Al Pastor,70
+ingredient,Black Beans,71
+ingredient,Pork Ribs,71
+ingredient,Smoked Sausage,71
+ingredient,Bacon,71
+ingredient,Beef Jerky,71
+ingredient,Garlic,71
+ingredient,Onion,71
+ingredient,Bay Leaves,71
+ingredient,Salt,71
+ingredient,Pepper,71
+country,Brazil,71
+dish,Feijoada,71
+ingredient,Basmati Rice,72
+ingredient,Chicken,72
+ingredient,Spices,72
+ingredient,Onions,72
+ingredient,Tomatoes,72
+ingredient,Yogurt,72
+ingredient,Ginger-Garlic Paste,72
+ingredient,Saffron,72
+ingredient,Mint Leaves,72
+country,India,72
+dish,Biryani,72
+ingredient,Basmati Rice,73
+ingredient,Chicken/Lamb/Beef,73
+ingredient,Onions,73
+ingredient,Tomatoes,73
+ingredient,Yogurt,73
+ingredient,Ginger-Garlic Paste,73
+ingredient,Biryani Masala,73
+ingredient,Saffron,73
+ingredient,Ghee,73
+ingredient,Mint Leaves,73
+country,India,73
+dish,Biryani,73
+ingredient,Rice Noodles,74
+ingredient,Shrimp,74
+ingredient,Tofu,74
+ingredient,Eggs,74
+ingredient,Bean Sprouts,74
+ingredient,Garlic,74
+ingredient,Shallots,74
+ingredient,Peanuts,74
+ingredient,Fish Sauce,74
+ingredient,Tamarind Paste,74
+ingredient,Lime Juice,74
+ingredient,Palm Sugar,74
+ingredient,Dried Chili Flakes,74
+country,Thailand,74
+dish,Pad Thai,74
+ingredient,Chicken,75
+ingredient,Yogurt,75
+ingredient,Lemon Juice,75
+ingredient,Garlic,75
+ingredient,Ginger,75
+ingredient,Garam Masala,75
+ingredient,Cumin,75
+ingredient,Paprika,75
+ingredient,Turmeric,75
+ingredient,Tomato Puree,75
+ingredient,Cream,75
+ingredient,Butter,75
+ingredient,Cilantro,75
+ingredient,Salt,75
+country,India,75
+dish,Chicken Tikka Masala,75
+ingredient,Bulgur Wheat,76
+ingredient,Parsley,76
+ingredient,Mint,76
+ingredient,Tomatoes,76
+ingredient,Onions,76
+ingredient,Lemon Juice,76
+ingredient,Olive Oil,76
+country,Lebanon,76
+dish,Tabbouleh,76
+ingredient,Beef Roast,77
+ingredient,Onions,77
+ingredient,Carrots,77
+ingredient,Celery,77
+ingredient,Red Wine,77
+ingredient,Beef Broth,77
+ingredient,Vinegar,77
+ingredient,Gingerbread Cookies,77
+ingredient,Flour,77
+ingredient,Butter,77
+ingredient,Salt,77
+ingredient,Pepper,77
+ingredient,Sugar,77
+ingredient,Lemon Zest,77
+country,Germany,77
+dish,Sauerbraten,77
+ingredient,Lasagna Noodles,78
+ingredient,Ground Beef,78
+ingredient,Onion,78
+ingredient,Garlic,78
+ingredient,Tomato Sauce,78
+ingredient,Ricotta Cheese,78
+ingredient,Mozzarella Cheese,78
+ingredient,Parmesan Cheese,78
+ingredient,Eggs,78
+ingredient,Basil,78
+ingredient,Oregano,78
+ingredient,Salt,78
+ingredient,Pepper,78
+country,Italy,78
+dish,Lasagna,78
+ingredient,Basmati Rice,79
+ingredient,Chicken Or Mutton,79
+ingredient,Onions,79
+ingredient,Tomatoes,79
+ingredient,Yogurt,79
+ingredient,Ginger-Garlic Paste,79
+ingredient,Spices,79
+ingredient,Saffron,79
+ingredient,Mint Leaves,79
+ingredient,Coriander Leaves,79
+ingredient,Fried Onions,79
+ingredient,Ghee,79
+country,India,79
+dish,Biryani,79
+ingredient,Chicken,80
+ingredient,Yogurt,80
+ingredient,Onions,80
+ingredient,Garlic,80
+ingredient,Ginger,80
+ingredient,Garam Masala,80
+ingredient,Turmeric,80
+ingredient,Cumin,80
+ingredient,Chili Powder,80
+ingredient,Butter,80
+ingredient,Tomatoes,80
+ingredient,Cream,80
+ingredient,Cilantro,80
+country,India,80
+dish,Butter Chicken,80
+ingredient,Black Beans,81
+ingredient,Pork Meat,81
+country,Brazil,81
+dish,Feijoada,81
+ingredient,Chicken,82
+ingredient,Bacon,82
+ingredient,Red Wine,82
+ingredient,Mushrooms,82
+ingredient,Onions,82
+ingredient,Carrots,82
+ingredient,Garlic,82
+ingredient,Thyme,82
+ingredient,Bay Leaf,82
+country,France,82
+dish,Coq Au Vin,82
+ingredient,Pizza Dough,83
+ingredient,Cup Tomato Sauce,83
+ingredient,Ounces Shredded Mozzarella Cheese,83
+ingredient,Fresh Basil Leaves,83
+ingredient,Olive Oil,83
+ingredient,Salt,83
+ingredient,Pepper,83
+country,Italy,83
+dish,Margherita Pizza,83
+ingredient,Chicken Legs,84
+ingredient,Slices Of Bacon,84
+ingredient,Onion,84
+ingredient,Carrots,84
+ingredient,Cloves Of Garlic,84
+ingredient,Bottle Of Red Wine,84
+ingredient,Cups Of Chicken Broth,84
+ingredient,1Button Mushrooms,84
+ingredient,Tablespoons Of Tomato Paste,84
+ingredient,Tablespoons Of All-Purpose Flour,84
+ingredient,Fresh Thyme,84
+ingredient,Salt,84
+ingredient,Pepper,84
+country,France,84
+dish,Coq Au Vin,84
+ingredient,Chicken,85
+ingredient,Yogurt,85
+ingredient,Lemon Juice,85
+ingredient,Garlic,85
+ingredient,Ginger,85
+ingredient,Garam Masala,85
+ingredient,Cumin,85
+ingredient,Paprika,85
+ingredient,Turmeric,85
+ingredient,Tomato Puree,85
+ingredient,Onion,85
+ingredient,Cream,85
+ingredient,Butter,85
+ingredient,Coriander Leaves,85
+country,India,85
+dish,Chicken Tikka Masala,85
+ingredient,Chicken,86
+ingredient,Butter,86
+ingredient,Tomato Puree,86
+ingredient,Cream,86
+ingredient,Yogurt,86
+ingredient,Ginger,86
+ingredient,Garlic,86
+ingredient,Garam Masala,86
+ingredient,Turmeric,86
+ingredient,Chili Powder,86
+ingredient,Coriander Powder,86
+ingredient,Cumin Powder,86
+ingredient,Salt,86
+ingredient,Oil,86
+ingredient,Fenugreek Leaves,86
+ingredient,Cashew Nuts,86
+country,India,86
+dish,Butter Chicken,86
+ingredient,Corn Tortillas,87
+ingredient,Chicken,87
+ingredient,Cheese,87
+ingredient,Onions,87
+ingredient,Tomatoes,87
+ingredient,Garlic,87
+ingredient,Chili Powder,87
+ingredient,Cumin,87
+ingredient,Oregano,87
+ingredient,Vegetable Oil,87
+ingredient,Lettuce,87
+ingredient,Sour Cream,87
+country,Mexico,87
+dish,Enchiladas,87
+ingredient,Black Beans,88
+ingredient,Pork Meat,88
+ingredient,Beef Meat,88
+ingredient,Sausage,88
+ingredient,Bacon,88
+ingredient,Onion,88
+ingredient,Garlic,88
+ingredient,Bay Leaves,88
+ingredient,Salt,88
+ingredient,Pepper,88
+country,Brazil,88
+dish,Feijoada,88
+ingredient,Flour,89
+ingredient,Yeast,89
+ingredient,Water,89
+ingredient,Salt,89
+ingredient,Olive Oil,89
+ingredient,Tomato Sauce,89
+ingredient,Mozzarella Cheese,89
+ingredient,Toppings,89
+country,Italy,89
+dish,Pizza,89
+ingredient,Basmati Rice,90
+ingredient,Chicken,90
+ingredient,Yogurt,90
+ingredient,Onions,90
+ingredient,Tomatoes,90
+ingredient,Ginger,90
+ingredient,Garlic,90
+ingredient,Green Chili Peppers,90
+ingredient,Turmeric,90
+ingredient,Cumin,90
+ingredient,Coriander,90
+ingredient,Cardamom,90
+ingredient,Cloves,90
+ingredient,Cinnamon,90
+ingredient,Saffron,90
+ingredient,Ghee,90
+country,India,90
+dish,Chicken Biryani,90
+ingredient,Rice,91
+ingredient,Seaweed,91
+ingredient,Fish,91
+ingredient,Soy Sauce,91
+ingredient,Wasabi,91
+ingredient,Pickled Ginger,91
+country,Japan,91
+dish,Sushi,91
+ingredient,Basmati Rice,92
+ingredient,Chicken,92
+ingredient,Spices,92
+ingredient,Onions,92
+ingredient,Tomatoes,92
+ingredient,Ginger,92
+ingredient,Garlic,92
+ingredient,Yogurt,92
+ingredient,Mint Leaves,92
+ingredient,Saffron,92
+country,India,92
+dish,Biryani,92
+ingredient,Corn Tortillas,93
+ingredient,Chicken,93
+ingredient,Tomatoes,93
+ingredient,Onions,93
+ingredient,Garlic,93
+ingredient,Chili Peppers,93
+ingredient,Cumin,93
+ingredient,Coriander,93
+ingredient,Oregano,93
+ingredient,Avocado,93
+ingredient,Cilantro,93
+ingredient,Queso Fresco,93
+ingredient,Sour Cream,93
+country,Mexico,93
+dish,Enchiladas,93
+ingredient,Rice,94
+ingredient,Chicken,94
+ingredient,Spices,94
+ingredient,Onions,94
+ingredient,Tomatoes,94
+ingredient,Yogurt,94
+ingredient,Garlic,94
+ingredient,Ginger,94
+ingredient,Saffron,94
+ingredient,Mint Leaves,94
+country,India,94
+dish,Biryani,94
+ingredient,Basmati Rice,95
+ingredient,Chicken,95
+ingredient,Yogurt,95
+ingredient,Ghee,95
+ingredient,Onions,95
+ingredient,Ginger-Garlic Paste,95
+ingredient,Tomatoes,95
+ingredient,Spices,95
+ingredient,Saffron Strands,95
+ingredient,Mint Leaves,95
+ingredient,Coriander Leaves,95
+country,India,95
+dish,Chicken Biryani,95
+ingredient,Basmati Rice,96
+ingredient,Chicken Or Lamb,96
+ingredient,Onions,96
+ingredient,Tomatoes,96
+ingredient,Yogurt,96
+ingredient,Ginger,96
+ingredient,Garlic,96
+ingredient,Green Chili Peppers,96
+ingredient,Spices,96
+ingredient,Saffron,96
+ingredient,Mint Leaves,96
+country,India,96
+dish,Biryani,96
+ingredient,Ground Beef,97
+ingredient,Lasagna Noodles,97
+ingredient,Marinara Sauce,97
+ingredient,Ricotta Cheese,97
+ingredient,Mozzarella Cheese,97
+ingredient,Parmesan Cheese,97
+ingredient,Onion,97
+ingredient,Garlic,97
+ingredient,Olive Oil,97
+ingredient,Salt,97
+ingredient,Pepper,97
+ingredient,Italian Seasoning,97
+country,Italy,97
+dish,Lasagna,97
+ingredient,Boneless Chicken,98
+ingredient,Yogurt,98
+ingredient,Ginger-Garlic Paste,98
+ingredient,Garam Masala,98
+ingredient,Turmeric Powder,98
+ingredient,Red Chili Powder,98
+ingredient,Tomato Puree,98
+ingredient,Butter,98
+ingredient,Cream,98
+ingredient,Cashew Nuts,98
+ingredient,Fenugreek Leaves,98
+country,India,98
+dish,Butter Chicken,98
+ingredient,Sushi Rice,99
+ingredient,Nori,99
+ingredient,Cucumber,99
+ingredient,Avocado,99
+ingredient,Soy Sauce,99
+ingredient,Wasabi,99
+ingredient,Pickled Ginger,99
+country,Japan,99
+dish,Sushi,99
+ingredient,Corn Tortillas,100
+ingredient,Ground Beef Or Chicken,100
+ingredient,Lettuce,100
+ingredient,Tomatoes,100
+ingredient,Shredded Cheese,100
+ingredient,Salsa,100
+ingredient,Sour Cream,100
+ingredient,Guacamole,100
+ingredient,Cilantro,100
+ingredient,Lime,100
+country,Mexico,100
+dish,Tacos,100
+ingredient,Rice Noodles,101
+ingredient,Shrimp Or Chicken,101
+ingredient,Eggs,101
+ingredient,Tofu,101
+ingredient,Bean Sprouts,101
+ingredient,Green Onions,101
+ingredient,Peanuts,101
+ingredient,Garlic,101
+ingredient,Tamarind Paste,101
+ingredient,Fish Sauce,101
+ingredient,Lime Juice,101
+country,Thailand,101
+dish,Pad Thai,101
+ingredient,Ground Beef,102
+ingredient,Onions,102
+ingredient,Garlic,102
+ingredient,Tomato Sauce,102
+ingredient,Lasagna Noodles,102
+ingredient,Ricotta Cheese,102
+ingredient,Mozzarella Cheese,102
+ingredient,Parmesan Cheese,102
+ingredient,Egg,102
+ingredient,Basil,102
+ingredient,Oregano,102
+ingredient,Salt,102
+ingredient,Pepper,102
+country,Italy,102
+dish,Lasagna,102
+ingredient,Chicken,103
+ingredient,Basmati Rice,103
+ingredient,Onions,103
+ingredient,Tomatoes,103
+ingredient,Ginger,103
+ingredient,Garlic,103
+ingredient,Yogurt,103
+ingredient,Spices,103
+ingredient,Saffron,103
+ingredient,Mint Leaves,103
+ingredient,Fried Onions,103
+country,India,103
+dish,Chicken Biryani,103
+ingredient,Marinated Pork,104
+ingredient,Pineapple,104
+ingredient,Onion,104
+ingredient,Cilantro,104
+ingredient,Lime,104
+ingredient,Tortillas,104
+country,Mexico,104
+dish,Tacos Al Pastor,104
+ingredient,Corn Tortillas,105
+ingredient,Seasoned Meat,105
+ingredient,Onions,105
+ingredient,Cilantro,105
+ingredient,Lime,105
+ingredient,Salsa,105
+ingredient,Avocado,105
+country,Mexico,105
+dish,Tacos,105
+ingredient,Egg Whites,106
+ingredient,Sugar,106
+ingredient,Vanilla Extract,106
+ingredient,Cornstarch,106
+ingredient,White Vinegar,106
+ingredient,Whipped Cream,106
+ingredient,Fresh Fruits,106
+country,Australia,106
+dish,Pavlova,106
+ingredient,Black Beans,107
+ingredient,Pork Meat,107
+ingredient,Onions,107
+ingredient,Garlic,107
+ingredient,Bay Leaves,107
+ingredient,Salt,107
+ingredient,Pepper,107
+country,Brazil,107
+dish,Feijoada,107
+ingredient,Rice,108
+ingredient,Tomatoes,108
+ingredient,Onions,108
+ingredient,Red Bell Peppers,108
+ingredient,Scotch Bonnet Peppers,108
+ingredient,Garlic,108
+ingredient,Ginger,108
+ingredient,Vegetable Oil,108
+ingredient,Chicken Or Beef Stock,108
+ingredient,Chicken Or Beef,108
+ingredient,Curry Powder,108
+ingredient,Thyme,108
+ingredient,Bay Leaves,108
+ingredient,Paprika,108
+ingredient,Salt,108
+ingredient,Black Pepper,108
+country,Nigeria,108
+dish,Jollof Rice,108
+ingredient,Black Beans,109
+ingredient,Pork,109
+ingredient,Onions,109
+ingredient,Garlic,109
+ingredient,Bay Leaves,109
+ingredient,Salt,109
+ingredient,Pepper,109
+ingredient,Orange Slices,109
+country,Brazil,109
+dish,Feijoada,109
+ingredient,Beef Ribs,110
+ingredient,Salt,110
+ingredient,Chimichurri Sauce,110
+ingredient,Grilled Vegetables,110
+country,Argentina,110
+dish,Asado,110
+ingredient,Pasta,111
+ingredient,Eggs,111
+ingredient,Pancetta,111
+ingredient,Parmesan Cheese,111
+ingredient,Black Pepper,111
+country,Italy,111
+dish,Spaghetti Carbonara,111
+ingredient,Rice Noodles,112
+ingredient,Shrimp,112
+ingredient,Tofu,112
+ingredient,Bean Sprouts,112
+ingredient,Peanuts,112
+ingredient,Tamarind Sauce,112
+country,Thailand,112
+dish,Pad Thai,112
+ingredient,Chicken,113
+ingredient,Yogurt,113
+ingredient,Tomatoes,113
+ingredient,Cream,113
+ingredient,Ginger,113
+ingredient,Garlic,113
+ingredient,Spices,113
+country,India,113
+dish,Chicken Tikka Masala,113
+ingredient,Pork,114
+ingredient,Pineapple,114
+ingredient,Onion,114
+ingredient,Cilantro,114
+ingredient,Corn Tortillas,114
+ingredient,Salsa,114
+ingredient,Lime,114
+country,Mexico,114
+dish,Tacos Al Pastor,114
+ingredient,Black Beans,115
+ingredient,Pork,115
+ingredient,Beef,115
+ingredient,Bacon,115
+ingredient,Sausage,115
+ingredient,Onions,115
+ingredient,Garlic,115
+ingredient,Bay Leaves,115
+ingredient,Salt,115
+ingredient,Pepper,115
+country,Brazil,115
+dish,Feijoada,115
+ingredient,Marinated Pork,116
+ingredient,Pineapple,116
+ingredient,Onion,116
+ingredient,Cilantro,116
+ingredient,Corn Tortillas,116
+ingredient,Lime,116
+ingredient,Salsa Verde,116
+country,Mexico,116
+dish,Tacos Al Pastor,116
+country,India,117
+dish,Chicken Biryani,117
+ingredient,Roti,118
+ingredient,Onions,118
+ingredient,Garlic,118
+ingredient,Ginger,118
+ingredient,Soy Sauce,118
+ingredient,Oil,118
+country,Sri Lanka,118
+dish,Kottu Roti,118
+ingredient,Ground Beef,119
+ingredient,Lasagna Noodles,119
+ingredient,Ricotta Cheese,119
+ingredient,Mozzarella Cheese,119
+ingredient,Parmesan Cheese,119
+ingredient,Tomato Sauce,119
+ingredient,Onions,119
+ingredient,Garlic,119
+ingredient,Olive Oil,119
+ingredient,Italian Seasoning,119
+country,Italy,119
+dish,Lasagna,119
+ingredient,Black Beans,120
+ingredient,Pork,120
+ingredient,Beef,120
+ingredient,Smoked Sausage,120
+ingredient,Onions,120
+ingredient,Garlic,120
+ingredient,Bay Leaves,120
+ingredient,Salt,120
+country,Brazil,120
+dish,Feijoada,120
+ingredient,Rice,121
+ingredient,Chicken Or Meat,121
+ingredient,Onions,121
+ingredient,Tomatoes,121
+ingredient,Spices,121
+ingredient,Yogurt,121
+ingredient,Ginger,121
+ingredient,Garlic,121
+ingredient,Saffron,121
+ingredient,Cilantro,121
+ingredient,Mint,121
+country,India,121
+dish,Biryani,121
+ingredient,Chicken,122
+ingredient,Yogurt,122
+ingredient,Tomato,122
+ingredient,Butter,122
+ingredient,Cream,122
+ingredient,Spices,122
+country,India,122
+dish,Butter Chicken,122
+ingredient,Rice,123
+ingredient,Meat,123
+ingredient,Onions,123
+ingredient,Tomatoes,123
+ingredient,Ginger,123
+ingredient,Garlic,123
+ingredient,Yogurt,123
+ingredient,Saffron,123
+ingredient,Mint Leaves,123
+country,India,123
+dish,Biryani,123
+ingredient,Chicken Breast,124
+ingredient,Peanuts,124
+ingredient,Dried Red Chilies,124
+ingredient,Soy Sauce,124
+ingredient,Vinegar,124
+ingredient,Sugar,124
+ingredient,Ginger,124
+ingredient,Garlic,124
+ingredient,Cornstarch,124
+ingredient,Green Onions,124
+country,China,124
+dish,Kung Pao Chicken,124
+ingredient,Rice,125
+ingredient,Raw Fish,125
+ingredient,Seaweed,125
+ingredient,Soy Sauce,125
+ingredient,Wasabi,125
+ingredient,Pickled Ginger,125
+country,Japan,125
+dish,Sushi,125
+ingredient,Rice,126
+ingredient,Raw Fish,126
+ingredient,Seaweed,126
+ingredient,Soy Sauce,126
+ingredient,Wasabi,126
+country,Japan,126
+dish,Sushi,126
+ingredient,Spaghetti,127
+ingredient,Eggs,127
+ingredient,Pancetta Or Guanciale,127
+ingredient,Pecorino Romano Cheese,127
+ingredient,Black Pepper,127
+country,Italy,127
+dish,Spaghetti Carbonara,127
+country,Nigeria,128
+dish,Jollof Rice,128
+ingredient,Ground Beef,129
+ingredient,Lasagna Noodles,129
+ingredient,Ricotta Cheese,129
+ingredient,Mozzarella Cheese,129
+ingredient,Parmesan Cheese,129
+ingredient,Tomato Sauce,129
+ingredient,Onions,129
+ingredient,Garlic,129
+ingredient,Olive Oil,129
+ingredient,Salt,129
+ingredient,Pepper,129
+ingredient,Italian Herbs,129
+country,Italy,129
+dish,Lasagna,129
+ingredient,Flour,130
+ingredient,Yeast,130
+ingredient,Water,130
+ingredient,Salt,130
+ingredient,Olive Oil,130
+ingredient,Tomato Sauce,130
+ingredient,Mozzarella Cheese,130
+ingredient,Toppings,130
+ingredient,Oregano,130
+country,Italy,130
+dish,Pizza,130
+ingredient,Rice,131
+ingredient,Beans,131
+ingredient,Ground Beef,131
+ingredient,Chicharron,131
+country,Colombia,131
+dish,Bandeja Paisa,131
+ingredient,Basmati Rice,132
+ingredient,Chicken Or Meat,132
+ingredient,Yogurt,132
+ingredient,Onions,132
+ingredient,Garlic,132
+ingredient,Ginger,132
+ingredient,Tomatoes,132
+ingredient,Spices,132
+country,India,132
+dish,Biryani,132
+ingredient,Rice,133
+ingredient,Tomatoes,133
+ingredient,Onions,133
+ingredient,Peppers,133
+ingredient,Chicken Or Beef,133
+ingredient,Spices,133
+ingredient,Vegetable Oil,133
+ingredient,Salt,133
+country,Nigeria,133
+dish,Jollof Rice,133
+ingredient,Marinated Pork,134
+ingredient,Pineapple,134
+ingredient,Tortillas,134
+ingredient,Onions,134
+ingredient,Cilantro,134
+ingredient,Lime Juice,134
+ingredient,Adobo Sauce,134
+ingredient,Garlic,134
+ingredient,Cumin,134
+ingredient,Oregano,134
+ingredient,Vinegar,134
+country,Mexico,134
+dish,Tacos Al Pastor,134
+ingredient,Ground Beef,135
+ingredient,Lasagna Noodles,135
+ingredient,Ricotta Cheese,135
+ingredient,Mozzarella Cheese,135
+ingredient,Parmesan Cheese,135
+ingredient,Tomato Sauce,135
+ingredient,Garlic,135
+ingredient,Onions,135
+ingredient,Olive Oil,135
+ingredient,Italian Seasoning,135
+country,Italy,135
+dish,Lasagna,135
+ingredient,Flour,136
+ingredient,Butter,136
+ingredient,Yeast,136
+ingredient,Sugar,136
+ingredient,Salt,136
+ingredient,Milk,136
+ingredient,Eggs,136
+country,France,136
+dish,Croissant,136
+ingredient,Eggplant,137
+ingredient,Ground Lamb Or Beef,137
+ingredient,Onion,137
+ingredient,Garlic,137
+ingredient,Tomato,137
+ingredient,Cinnamon,137
+ingredient,Nutmeg,137
+ingredient,Oregano,137
+ingredient,Olive Oil,137
+ingredient,Flour,137
+ingredient,Milk,137
+ingredient,Butter,137
+ingredient,Breadcrumbs,137
+ingredient,Feta Cheese,137
+country,Greece,137
+dish,Moussaka,137
+ingredient,Chicken,138
+ingredient,Yogurt,138
+ingredient,Tomatoes,138
+ingredient,Butter,138
+ingredient,Garlic,138
+ingredient,Ginger,138
+ingredient,Garam Masala,138
+ingredient,Chili Powder,138
+ingredient,Turmeric,138
+ingredient,Cream,138
+ingredient,Onions,138
+country,India,138
+dish,Butter Chicken,138
+ingredient,Ground Beef,139
+ingredient,Onions,139
+ingredient,Garlic,139
+ingredient,Tomato Sauce,139
+ingredient,Lasagna Noodles,139
+ingredient,Ricotta Cheese,139
+ingredient,Mozzarella Cheese,139
+ingredient,Parmesan Cheese,139
+ingredient,Eggs,139
+ingredient,Basil,139
+ingredient,Oregano,139
+ingredient,Salt,139
+ingredient,Pepper,139
+country,Italy,139
+dish,Lasagna,139
+ingredient,Rice,140
+ingredient,Red Beans,140
+ingredient,Ground Beef,140
+ingredient,Chorizo Sausage,140
+ingredient,Fried Pork Belly,140
+ingredient,Fried Egg,140
+ingredient,Plantain,140
+ingredient,Avocado,140
+ingredient,Arepa,140
+ingredient,Hogao Sauce,140
+country,Colombia,140
+dish,Bandeja Paisa,140
+ingredient,Rice,141
+ingredient,Chicken,141
+ingredient,Spices,141
+ingredient,Onions,141
+ingredient,Yogurt,141
+ingredient,Tomatoes,141
+ingredient,Ginger,141
+ingredient,Garlic,141
+ingredient,Saffron,141
+ingredient,Mint Leaves,141
+country,India,141
+dish,Biryani,141
+ingredient,Poblano Peppers,142
+ingredient,Ground Beef,142
+ingredient,Onion,142
+ingredient,Garlic,142
+ingredient,Tomatoes,142
+ingredient,Raisins,142
+ingredient,Olives,142
+ingredient,Almonds,142
+ingredient,Eggs,142
+ingredient,Flour,142
+ingredient,Oil,142
+ingredient,Salt,142
+ingredient,Pepper,142
+country,Mexico,142
+dish,Chiles Rellenos,142
+ingredient,Corn Tortillas,143
+ingredient,Grilled Meat,143
+ingredient,Diced Onions,143
+ingredient,Chopped Cilantro,143
+ingredient,Salsa,143
+ingredient,Lime Juice,143
+ingredient,Avocado,143
+country,Mexico,143
+dish,Tacos,143
+ingredient,Pizza Dough,144
+ingredient,Tomato Sauce,144
+ingredient,Mozzarella Cheese,144
+ingredient,Toppings,144
+ingredient,Olive Oil,144
+country,Italy,144
+dish,Pizza,144
+ingredient,Onions,145
+ingredient,Garlic,145
+ingredient,Ginger,145
+ingredient,Curry Powder Or Spices,145
+ingredient,Rice Or Naan Bread,145
+country,India,145
+dish,Curry,145
+ingredient,Rice,146
+ingredient,Nori,146
+ingredient,Soy Sauce,146
+ingredient,Wasabi,146
+ingredient,Pickled Ginger,146
+country,Japan,146
+dish,Sushi,146
+ingredient,Rice Noodles,147
+ingredient,Tofu Or Shrimp,147
+ingredient,Eggs,147
+ingredient,Bean Sprouts,147
+ingredient,Green Onions,147
+ingredient,Peanuts,147
+ingredient,Lime Juice,147
+ingredient,Fish Sauce,147
+ingredient,Tamarind Paste,147
+ingredient,Chili Flakes,147
+country,Thailand,147
+dish,Pad Thai,147
+ingredient,Eggplant,148
+ingredient,Ground Lamb Or Beef,148
+ingredient,Onions,148
+ingredient,Garlic,148
+ingredient,Tomato Sauce,148
+ingredient,Cinnamon,148
+ingredient,Nutmeg,148
+ingredient,Potatoes,148
+ingredient,Béchamel Sauce,148
+ingredient,Grated Cheese,148
+country,Greece,148
+dish,Moussaka,148
+ingredient,Chicken,149
+ingredient,Bacon,149
+ingredient,Onions,149
+ingredient,Mushrooms,149
+ingredient,Red Wine,149
+ingredient,Chicken Broth,149
+ingredient,Garlic,149
+ingredient,Thyme,149
+ingredient,Flour,149
+ingredient,Butter,149
+country,France,149
+dish,Coq Au Vin,149
+ingredient,Chicken,150
+ingredient,Peanuts,150
+ingredient,Bell Peppers,150
+ingredient,Onions,150
+ingredient,Garlic,150
+ingredient,Ginger,150
+ingredient,Soy Sauce,150
+ingredient,Vinegar,150
+ingredient,Chili Paste,150
+ingredient,Cornstarch,150
+country,China,150
+dish,Kung Pao Chicken,150
+ingredient,Black Beans,151
+ingredient,Pork,151
+country,Brazil,151
+dish,Feijoada,151
+ingredient,Parsley,152
+ingredient,Bulgur Wheat,152
+ingredient,Tomatoes,152
+ingredient,Mint,152
+ingredient,Green Onions,152
+ingredient,Lemon Juice,152
+ingredient,Olive Oil,152
+ingredient,Salt,152
+ingredient,Black Pepper,152
+country,Lebanon,152
+dish,Tabbouleh,152
+ingredient,Sponge Cake,153
+ingredient,Chocolate Icing,153
+ingredient,Desiccated Coconut,153
+country,Australia,153
+dish,Lamington,153
+ingredient,Lamb,154
+ingredient,Onions,154
+ingredient,Garlic,154
+ingredient,Ginger,154
+ingredient,Saffron,154
+ingredient,Turmeric,154
+ingredient,Cumin,154
+ingredient,Coriander,154
+ingredient,Cinnamon,154
+ingredient,Dried Apricots,154
+ingredient,Preserved Lemons,154
+ingredient,Olive Oil,154
+ingredient,Vegetable Broth,154
+ingredient,Green Olives,154
+country,Morocco,154
+dish,Tagine,154
+ingredient,Dough,155
+ingredient,Tomato Sauce,155
+ingredient,Mozzarella Cheese,155
+ingredient,Basil,155
+ingredient,Olive Oil,155
+country,Italy,155
+dish,Pizza,155
+ingredient,Boneless Chicken,156
+ingredient,Yogurt,156
+ingredient,Ginger-Garlic Paste,156
+ingredient,Garam Masala,156
+ingredient,Turmeric,156
+ingredient,Cumin,156
+ingredient,Coriander,156
+ingredient,Chili Powder,156
+ingredient,Tomatoes,156
+ingredient,Butter,156
+ingredient,Cream,156
+ingredient,Fenugreek Leaves,156
+country,India,156
+dish,Butter Chicken,156
+ingredient,Boneless Chicken,157
+ingredient,Peanuts,157
+ingredient,Dried Red Chilies,157
+ingredient,Soy Sauce,157
+ingredient,Vinegar,157
+ingredient,Sugar,157
+ingredient,Ginger,157
+ingredient,Garlic,157
+ingredient,Cornstarch,157
+ingredient,Vegetable Oil,157
+country,China,157
+dish,Kung Pao Chicken,157
+ingredient,Basmati Rice,158
+ingredient,Chicken/Mutton/Vegetables,158
+ingredient,Onions,158
+ingredient,Tomatoes,158
+ingredient,Yogurt,158
+ingredient,Spices,158
+ingredient,Saffron,158
+ingredient,Ghee/Vegetable Oil,158
+country,India,158
+dish,Biryani,158
+ingredient,Rice,159
+ingredient,Vegetables,159
+ingredient,Sesame Oil,159
+country,South Korea,159
+dish,Bibimbap,159
+ingredient,Rice Noodles,160
+ingredient,Tofu,160
+ingredient,Shrimp,160
+ingredient,Bean Sprouts,160
+ingredient,Eggs,160
+ingredient,Peanuts,160
+ingredient,Garlic,160
+ingredient,Shallots,160
+ingredient,Tamarind Paste,160
+ingredient,Fish Sauce,160
+ingredient,Lime Juice,160
+ingredient,Palm Sugar,160
+ingredient,Red Chili Pepper,160
+country,Thailand,160
+dish,Pad Thai,160
+ingredient,Chicken,161
+ingredient,Yogurt,161
+ingredient,Ginger,161
+ingredient,Garlic,161
+ingredient,Garam Masala,161
+ingredient,Turmeric,161
+ingredient,Coriander,161
+ingredient,Cumin,161
+ingredient,Tomatoes,161
+ingredient,Cream,161
+ingredient,Butter,161
+ingredient,Chili Powder,161
+ingredient,Fenugreek Leaves,161
+country,India,161
+dish,Butter Chicken,161
+ingredient,Lentils,162
+ingredient,Rice,162
+ingredient,Macaroni,162
+ingredient,Chickpeas,162
+ingredient,Onions,162
+ingredient,Garlic,162
+ingredient,Tomato Sauce,162
+ingredient,Cumin,162
+ingredient,Vinegar,162
+ingredient,Oil,162
+country,Egypt,162
+dish,Koshari,162
+ingredient,Lasagna Noodles,163
+ingredient,Ground Beef,163
+ingredient,Onion,163
+ingredient,Garlic,163
+ingredient,Tomato Sauce,163
+ingredient,Ricotta Cheese,163
+ingredient,Mozzarella Cheese,163
+ingredient,Parmesan Cheese,163
+ingredient,Eggs,163
+ingredient,Basil,163
+ingredient,Oregano,163
+ingredient,Salt,163
+ingredient,Pepper,163
+country,Italy,163
+dish,Lasagna,163
+ingredient,Black Beans,164
+ingredient,Pork Meat,164
+ingredient,Collard Greens,164
+country,Brazil,164
+dish,Feijoada,164
+ingredient,Basmati Rice,165
+ingredient,Chicken Or Lamb,165
+ingredient,Onions,165
+ingredient,Tomatoes,165
+ingredient,Yogurt,165
+ingredient,Garlic,165
+ingredient,Ginger,165
+ingredient,Garam Masala,165
+ingredient,Turmeric,165
+ingredient,Saffron,165
+ingredient,Cardamom,165
+ingredient,Cinnamon,165
+ingredient,Cloves,165
+country,India,165
+dish,Biryani,165
+ingredient,Rice Noodles,166
+ingredient,Tofu,166
+ingredient,Shrimp,166
+ingredient,Eggs,166
+ingredient,Bean Sprouts,166
+ingredient,Garlic,166
+ingredient,Shallots,166
+ingredient,Tamarind Paste,166
+ingredient,Fish Sauce,166
+ingredient,Palm Sugar,166
+ingredient,Lime Juice,166
+ingredient,Peanuts,166
+ingredient,Chili Flakes,166
+ingredient,Cilantro,166
+country,Thailand,166
+dish,Pad Thai,166
+ingredient,Maize Flour,167
+ingredient,Water,167
+country,Kenya,167
+dish,Ugali,167
+ingredient,Marinated Pork,168
+ingredient,Pineapple,168
+ingredient,Onion,168
+ingredient,Coriander,168
+ingredient,Lime,168
+ingredient,Tortillas,168
+country,Mexico,168
+dish,Tacos Al Pastor,168
+ingredient,Marinated Pork,169
+ingredient,Pineapple,169
+ingredient,Corn Tortillas,169
+ingredient,Onions,169
+ingredient,Cilantro,169
+ingredient,Lime Juice,169
+ingredient,Adobo Sauce,169
+ingredient,Achiote Paste,169
+ingredient,Garlic,169
+ingredient,Oregano,169
+ingredient,Cumin,169
+ingredient,Vinegar,169
+ingredient,Salt,169
+country,Mexico,169
+dish,Tacos Al Pastor,169
+ingredient,Black Beans,170
+ingredient,Pork Ribs,170
+ingredient,Smoked Sausage,170
+ingredient,Bacon,170
+ingredient,Garlic,170
+ingredient,Onions,170
+ingredient,Bay Leaves,170
+ingredient,Salt,170
+ingredient,Pepper,170
+ingredient,Orange Slices,170
+ingredient,Farofa,170
+ingredient,Rice,170
+ingredient,Collard Greens,170
+country,Brazil,170
+dish,Feijoada,170
+ingredient,Basmati Rice,171
+ingredient,Chicken Or Mutton,171
+ingredient,Onions,171
+ingredient,Tomatoes,171
+ingredient,Yogurt,171
+ingredient,Ginger-Garlic Paste,171
+ingredient,Biryani Masala,171
+ingredient,Saffron,171
+ingredient,Ghee,171
+ingredient,Mint Leaves,171
+ingredient,Coriander Leaves,171
+ingredient,A Variety Of Spices,171
+country,India,171
+dish,Biryani,171
+ingredient,Chicken,172
+ingredient,Yogurt,172
+ingredient,Tomatoes,172
+ingredient,Butter,172
+ingredient,Garlic,172
+ingredient,Ginger,172
+ingredient,Cream,172
+ingredient,Spices,172
+ingredient,Lemon Juice,172
+country,India,172
+dish,Butter Chicken,172
+ingredient,Boneless Chicken,173
+ingredient,Yogurt,173
+ingredient,Ginger-Garlic Paste,173
+ingredient,Garam Masala,173
+ingredient,Turmeric,173
+ingredient,Cumin,173
+ingredient,Coriander,173
+ingredient,Cardamom,173
+ingredient,Tomato Puree,173
+ingredient,Butter,173
+ingredient,Cream,173
+ingredient,Chili Powder,173
+country,India,173
+dish,Butter Chicken,173
+ingredient,Chicken,174
+ingredient,Yogurt,174
+ingredient,Ginger,174
+ingredient,Garlic,174
+ingredient,Tomatoes,174
+ingredient,Butter,174
+ingredient,Cream,174
+ingredient,Spices,174
+ingredient,Onions,174
+ingredient,Cilantro,174
+country,India,174
+dish,Butter Chicken,174
+ingredient,Chicken,175
+ingredient,Yogurt,175
+ingredient,Tomatoes,175
+ingredient,Butter,175
+ingredient,Garlic,175
+ingredient,Ginger,175
+ingredient,Chili Powder,175
+ingredient,Garam Masala,175
+ingredient,Fenugreek Leaves,175
+ingredient,Cream,175
+country,India,175
+dish,Butter Chicken,175
+ingredient,Rice Noodles,176
+ingredient,Shrimp,176
+ingredient,Tofu,176
+ingredient,Bean Sprouts,176
+ingredient,Eggs,176
+ingredient,Peanuts,176
+ingredient,Garlic,176
+ingredient,Shallots,176
+ingredient,Tamarind Paste,176
+ingredient,Fish Sauce,176
+ingredient,Lime Juice,176
+ingredient,Palm Sugar,176
+ingredient,Chili Flakes,176
+country,Thailand,176
+dish,Pad Thai,176
+ingredient,Basmati Rice,177
+ingredient,Chicken,177
+ingredient,Onions,177
+ingredient,Tomatoes,177
+ingredient,Ginger-Garlic Paste,177
+ingredient,Yogurt,177
+ingredient,Spices,177
+ingredient,Saffron Strands,177
+country,India,177
+dish,Chicken Biryani,177
+ingredient,Corn Tortillas,178
+ingredient,Chicken Or Beef,178
+ingredient,Onions,178
+ingredient,Garlic,178
+ingredient,Chili Peppers,178
+ingredient,Tomatoes,178
+ingredient,Cheese,178
+ingredient,Avocado,178
+ingredient,Sour Cream,178
+country,Mexico,178
+dish,Enchiladas,178
+ingredient,Chicken,179
+ingredient,Yogurt,179
+ingredient,Lemon Juice,179
+ingredient,Ginger,179
+ingredient,Garlic,179
+ingredient,Garam Masala,179
+ingredient,Turmeric,179
+ingredient,Cumin,179
+ingredient,Coriander,179
+ingredient,Paprika,179
+ingredient,Tomato Sauce,179
+ingredient,Heavy Cream,179
+ingredient,Butter,179
+ingredient,Onion,179
+ingredient,Green Chili,179
+ingredient,Cilantro,179
+ingredient,Salt,179
+country,India,179
+dish,Chicken Tikka Masala,179
+ingredient,Rice,180
+ingredient,Raw Fish,180
+ingredient,Seaweed,180
+ingredient,Soy Sauce,180
+ingredient,Wasabi,180
+ingredient,Pickled Ginger,180
+country,Japan,180
+dish,Sushi,180
+ingredient,Rice,181
+ingredient,Chicken,181
+ingredient,Onions,181
+ingredient,Tomatoes,181
+ingredient,Yogurt,181
+ingredient,Garlic,181
+ingredient,Ginger,181
+ingredient,Chili Powder,181
+ingredient,Turmeric,181
+ingredient,Cumin,181
+ingredient,Cinnamon,181
+ingredient,Cardamom,181
+ingredient,Cloves,181
+ingredient,Bay Leaves,181
+ingredient,Saffron,181
+ingredient,Ghee,181
+country,India,181
+dish,Chicken Biryani,181
+country,India,182
+dish,Chicken Tikka Masala,182
+ingredient,Rice Noodles,183
+ingredient,Shrimp,183
+ingredient,Tofu,183
+ingredient,Eggs,183
+ingredient,Bean Sprouts,183
+ingredient,Garlic,183
+ingredient,Shallots,183
+ingredient,Tamarind Paste,183
+ingredient,Fish Sauce,183
+ingredient,Peanuts,183
+ingredient,Lime,183
+country,Thailand,183
+dish,Pad Thai,183
+ingredient,Ground Beef,184
+ingredient,Lasagna Noodles,184
+ingredient,Ricotta Cheese,184
+ingredient,Mozzarella Cheese,184
+ingredient,Parmesan Cheese,184
+ingredient,Tomato Sauce,184
+ingredient,Onion,184
+ingredient,Garlic,184
+ingredient,Oregano,184
+ingredient,Basil,184
+ingredient,Salt,184
+ingredient,Pepper,184
+country,Italy,184
+dish,Lasagna,184
+ingredient,Rice,185
+ingredient,Shrimp,185
+ingredient,Chicken,185
+ingredient,Egg,185
+ingredient,Garlic,185
+ingredient,Shallots,185
+ingredient,Soy Sauce,185
+ingredient,Kecap Manis,185
+ingredient,Chili,185
+ingredient,Vegetables,185
+ingredient,Garnished With Fried Onions,185
+country,Indonesia,185
+dish,Nasi Goreng,185
+ingredient,Lamb,186
+ingredient,Onions,186
+ingredient,Garlic,186
+ingredient,Ginger,186
+ingredient,Saffron,186
+ingredient,Turmeric,186
+ingredient,Cumin,186
+ingredient,Cinnamon,186
+ingredient,Paprika,186
+ingredient,Tomatoes,186
+ingredient,Preserved Lemons,186
+ingredient,Olives,186
+ingredient,Fresh Cilantro,186
+country,Morocco,186
+dish,Tagine,186
+ingredient,Rice,187
+ingredient,Assorted Vegetables,187
+ingredient,Eggs,187
+country,South Korea,187
+dish,Bibimbap,187
+ingredient,Basmati Rice,188
+ingredient,Chicken,188
+ingredient,Yogurt,188
+ingredient,Onions,188
+ingredient,Tomatoes,188
+ingredient,Ginger,188
+ingredient,Garlic,188
+ingredient,Green Chilies,188
+ingredient,Spices,188
+ingredient,Saffron,188
+ingredient,Mint,188
+ingredient,Coriander Leaves,188
+country,India,188
+dish,Chicken Biryani,188
+ingredient,Poblano Peppers,189
+ingredient,Cheese,189
+ingredient,Ground Meat,189
+ingredient,Tomatoes,189
+ingredient,Onions,189
+ingredient,Garlic,189
+ingredient,Egg,189
+ingredient,Flour,189
+ingredient,Oil,189
+country,Mexico,189
+dish,Chiles Rellenos,189
+ingredient,Boneless Chicken,190
+ingredient,Yogurt,190
+ingredient,Lemon Juice,190
+ingredient,Ginger Paste,190
+ingredient,Garlic Paste,190
+ingredient,Ground Cumin,190
+ingredient,Ground Coriander,190
+ingredient,Garam Masala,190
+ingredient,Turmeric Powder,190
+ingredient,Red Chili Powder,190
+ingredient,Tomato Puree,190
+ingredient,Cream,190
+ingredient,Butter,190
+ingredient,Salt,190
+ingredient,Fresh Cilantro,190
+country,India,190
+dish,Chicken Tikka Masala,190
+ingredient,Rice,191
+ingredient,Chicken,191
+ingredient,Spices,191
+ingredient,Onions,191
+ingredient,Tomatoes,191
+ingredient,Ginger,191
+ingredient,Garlic,191
+ingredient,Yogurt,191
+ingredient,Mint Leaves,191
+ingredient,Coriander Leaves,191
+ingredient,Saffron Strands,191
+ingredient,Ghee,191
+ingredient,Water,191
+country,India,191
+dish,Biryani,191
+ingredient,Ground Beef,192
+ingredient,Lasagna Noodles,192
+ingredient,Tomato Sauce,192
+ingredient,Ricotta Cheese,192
+ingredient,Mozzarella Cheese,192
+ingredient,Parmesan Cheese,192
+ingredient,Onions,192
+ingredient,Garlic,192
+ingredient,Olive Oil,192
+ingredient,Salt,192
+ingredient,Pepper,192
+country,Italy,192
+dish,Lasagna,192
+ingredient,Chicken,193
+ingredient,Yogurt,193
+ingredient,Ginger,193
+ingredient,Garlic,193
+ingredient,Tomato Puree,193
+ingredient,Garam Masala,193
+ingredient,Cumin Powder,193
+ingredient,Coriander Powder,193
+ingredient,Turmeric Powder,193
+ingredient,Red Chili Powder,193
+ingredient,Butter,193
+ingredient,Cream,193
+ingredient,Salt,193
+ingredient,Cilantro,193
+country,India,193
+dish,Butter Chicken,193
+ingredient,Chicken,194
+ingredient,Butter,194
+ingredient,Tomato Puree,194
+ingredient,Heavy Cream,194
+ingredient,Garlic,194
+ingredient,Ginger,194
+ingredient,Garam Masala,194
+ingredient,Cumin,194
+ingredient,Paprika,194
+ingredient,Turmeric,194
+ingredient,Chili Powder,194
+ingredient,Fenugreek Leaves,194
+ingredient,Salt,194
+country,India,194
+dish,Butter Chicken,194
+ingredient,Ground Beef,195
+ingredient,Lasagna Noodles,195
+ingredient,Marinara Sauce,195
+ingredient,Ricotta Cheese,195
+ingredient,Mozzarella Cheese,195
+ingredient,Parmesan Cheese,195
+ingredient,Eggs,195
+ingredient,Garlic,195
+ingredient,Onion,195
+ingredient,Olive Oil,195
+ingredient,Salt,195
+ingredient,Pepper,195
+country,Italy,195
+dish,Lasagna,195
+ingredient,Basmati Rice,196
+ingredient,Chicken Or Mutton,196
+ingredient,Yogurt,196
+ingredient,Onions,196
+ingredient,Tomatoes,196
+ingredient,Ginger,196
+ingredient,Garlic,196
+ingredient,Green Chilies,196
+ingredient,Garam Masala,196
+ingredient,Turmeric,196
+ingredient,Saffron,196
+ingredient,Mint Leaves,196
+country,India,196
+dish,Biryani,196
+ingredient,Spaghetti,197
+ingredient,Pancetta,197
+ingredient,Eggs,197
+ingredient,Parmesan Cheese,197
+ingredient,Black Pepper,197
+country,Italy,197
+dish,Pasta Carbonara,197
+ingredient,Chicken,198
+ingredient,Butter,198
+ingredient,Tomato,198
+ingredient,Onion,198
+ingredient,Garlic,198
+ingredient,Ginger,198
+ingredient,Cream,198
+ingredient,Spices,198
+country,India,198
+dish,Butter Chicken,198
+country,India,199
+dish,Chicken Biryani,199
+ingredient,Rice,200
+ingredient,Vegetables,200
+ingredient,Sesame Seeds,200
+ingredient,Fried Egg,200
+country,Korea,200
+dish,Bibimbap,200
+ingredient,Chicken,201
+ingredient,Yogurt,201
+ingredient,Lemon Juice,201
+ingredient,Ginger,201
+ingredient,Garlic,201
+ingredient,Garam Masala,201
+ingredient,Cumin,201
+ingredient,Coriander,201
+ingredient,Turmeric,201
+ingredient,Paprika,201
+ingredient,Tomato Sauce,201
+ingredient,Cream,201
+ingredient,Butter,201
+ingredient,Salt,201
+ingredient,Pepper,201
+country,India,201
+dish,Chicken Tikka Masala,201
+ingredient,Chicken,202
+ingredient,Yogurt,202
+ingredient,Tomatoes,202
+ingredient,Onions,202
+ingredient,Garlic,202
+ingredient,Ginger,202
+ingredient,Butter,202
+ingredient,Cream,202
+ingredient,Garam Masala,202
+ingredient,Turmeric,202
+ingredient,Red Chili Powder,202
+country,India,202
+dish,Butter Chicken,202
+ingredient,Chicken,203
+ingredient,Yogurt,203
+ingredient,Ginger,203
+ingredient,Garlic,203
+ingredient,Garam Masala,203
+ingredient,Turmeric,203
+ingredient,Cumin,203
+ingredient,Coriander,203
+ingredient,Tomato,203
+ingredient,Onion,203
+ingredient,Butter,203
+ingredient,Cream,203
+country,India,203
+dish,Butter Chicken,203
+ingredient,Whole Chicken,204
+ingredient,Slices Of Bacon,204
+ingredient,1Small Onions,204
+ingredient,Cups Of Red Wine,204
+ingredient,Cups Of Chicken Broth,204
+ingredient,Cloves Of Garlic,204
+ingredient,Tablespoon Of Tomato Paste,204
+ingredient,Tablespoons Of Flour,204
+ingredient,Bouquet Garni,204
+ingredient,Salt,204
+ingredient,Pepper,204
+ingredient,Butter,204
+country,France,204
+dish,Coq Au Vin,204
+ingredient,Chicken,205
+ingredient,Yogurt,205
+ingredient,Butter,205
+ingredient,Garlic,205
+ingredient,Ginger,205
+ingredient,Tomato,205
+ingredient,Garam Masala,205
+ingredient,Cumin,205
+ingredient,Coriander,205
+ingredient,Turmeric,205
+ingredient,Chili Powder,205
+ingredient,Cream,205
+ingredient,Fenugreek Leaves,205
+ingredient,Salt,205
+country,India,205
+dish,Butter Chicken,205
+ingredient,Chicken,206
+ingredient,Yogurt,206
+ingredient,Ginger,206
+ingredient,Garlic,206
+ingredient,Tomatoes,206
+ingredient,Onions,206
+ingredient,Butter,206
+ingredient,Cream,206
+ingredient,Garam Masala,206
+ingredient,Turmeric,206
+ingredient,Red Chili Powder,206
+ingredient,Cumin,206
+ingredient,Coriander,206
+ingredient,Cardamom,206
+country,India,206
+dish,Butter Chicken,206
+ingredient,Pounds Of Pork,207
+ingredient,Onion,207
+ingredient,Cloves Of Garlic,207
+ingredient,Tablespoons Of Achiote Paste,207
+ingredient,Tablespoon Of Vinegar,207
+ingredient,Tablespoon Of Paprika,207
+ingredient,Tablespoon Of Dried Oregano,207
+ingredient,Teaspoon Of Cumin,207
+ingredient,Teaspoon Of Salt,207
+ingredient,1/Teaspoon Of Black Pepper,207
+ingredient,1/Teaspoon Of Cinnamon,207
+ingredient,1/Teaspoon Of Cloves,207
+ingredient,1/Cup Of Pineapple Juice,207
+ingredient,1/Cup Of Orange Juice,207
+ingredient,Tortillas,207
+ingredient,Chopped Pineapple,207
+ingredient,Chopped Onion,207
+ingredient,Chopped Cilantro,207
+country,Mexico,207
+dish,Tacos Al Pastor,207
+ingredient,Poblano Peppers,208
+ingredient,Ground Beef Or Cheese,208
+ingredient,Tomatoes,208
+ingredient,Onions,208
+ingredient,Garlic,208
+ingredient,Cumin,208
+ingredient,Oregano,208
+ingredient,Eggs,208
+ingredient,Flour,208
+ingredient,Oil,208
+ingredient,Salt,208
+ingredient,Pepper,208
+country,Mexico,208
+dish,Chiles Rellenos,208
+ingredient,Rice,209
+ingredient,Saffron,209
+ingredient,Chicken,209
+ingredient,Rabbit,209
+ingredient,Green Beans,209
+ingredient,Tomato,209
+ingredient,Onion,209
+ingredient,Garlic,209
+ingredient,Olive Oil,209
+ingredient,Paprika,209
+ingredient,Lemon,209
+country,Spain,209
+dish,Paella,209
+ingredient,Chicken,210
+ingredient,Bacon,210
+ingredient,Mushrooms,210
+ingredient,Onions,210
+ingredient,Garlic,210
+ingredient,Red Wine,210
+ingredient,Chicken Broth,210
+ingredient,Thyme,210
+ingredient,Bay Leaves,210
+ingredient,Flour,210
+ingredient,Butter,210
+ingredient,Salt,210
+ingredient,Pepper,210
+country,France,210
+dish,Coq Au Vin,210
+ingredient,Flour,211
+ingredient,Yeast,211
+ingredient,Water,211
+ingredient,Salt,211
+ingredient,Olive Oil,211
+ingredient,Tomato Sauce,211
+ingredient,Mozzarella Cheese,211
+ingredient,Toppings Of Choice,211
+country,Italy,211
+dish,Pizza,211
+ingredient,Rice,212
+ingredient,Chicken Or Meat,212
+ingredient,Onions,212
+ingredient,Tomatoes,212
+ingredient,Garlic,212
+ingredient,Ginger,212
+ingredient,Yogurt,212
+ingredient,Spices,212
+ingredient,Ghee,212
+ingredient,Saffron,212
+ingredient,Mint Leaves,212
+country,Pakistan,212
+dish,Biryani,212
+ingredient,Rice,213
+ingredient,Seaweed,213
+ingredient,Raw Fish,213
+ingredient,Soy Sauce,213
+ingredient,Wasabi,213
+ingredient,Pickled Ginger,213
+country,Japan,213
+dish,Sushi,213
+ingredient,Chicken,214
+ingredient,Yogurt,214
+ingredient,Ginger,214
+ingredient,Garlic,214
+ingredient,Turmeric,214
+ingredient,Cumin,214
+ingredient,Coriander,214
+ingredient,Garam Masala,214
+ingredient,Tomato Purée,214
+ingredient,Cream,214
+ingredient,Butter,214
+ingredient,Onion,214
+ingredient,Green Chili,214
+ingredient,Cilantro,214
+country,India,214
+dish,Chicken Tikka Masala,214
+ingredient,Basmati Rice,215
+ingredient,Chicken Or Mutton,215
+ingredient,Onions,215
+ingredient,Tomatoes,215
+ingredient,Yogurt,215
+ingredient,Ginger-Garlic Paste,215
+ingredient,Green Chilies,215
+ingredient,Spices,215
+ingredient,Saffron,215
+ingredient,Mint Leaves,215
+ingredient,Coriander Leaves,215
+country,India,215
+dish,Biryani,215
+ingredient,Eggplant,216
+ingredient,Ground Lamb Or Beef,216
+ingredient,Onion,216
+ingredient,Garlic,216
+ingredient,Tomato,216
+ingredient,Potato,216
+ingredient,Cinnamon,216
+ingredient,Nutmeg,216
+ingredient,Bay Leaf,216
+ingredient,Olive Oil,216
+ingredient,Béchamel Sauce,216
+ingredient,Parmesan Cheese,216
+country,Greece,216
+dish,Moussaka,216
+ingredient,Eggplant,217
+ingredient,Ground Lamb,217
+ingredient,Onion,217
+ingredient,Garlic,217
+ingredient,Tomato,217
+ingredient,Olive Oil,217
+ingredient,Breadcrumbs,217
+ingredient,Milk,217
+ingredient,Butter,217
+ingredient,Flour,217
+ingredient,Nutmeg,217
+ingredient,Cinnamon,217
+ingredient,Salt,217
+ingredient,Pepper,217
+country,Greece,217
+dish,Moussaka,217
+ingredient,Chicken,218
+ingredient,Bacon,218
+ingredient,Mushrooms,218
+ingredient,Onions,218
+ingredient,Garlic,218
+ingredient,Red Wine,218
+ingredient,Chicken Broth,218
+ingredient,Thyme,218
+ingredient,Bay Leaf,218
+ingredient,Flour,218
+ingredient,Butter,218
+ingredient,Salt,218
+ingredient,Pepper,218
+country,France,218
+dish,Coq Au Vin,218
+ingredient,Ground Meat,219
+ingredient,All-Purpose Flour,219
+ingredient,Onion,219
+ingredient,Garlic,219
+ingredient,Ginger,219
+ingredient,Cilantro,219
+ingredient,Cumin,219
+ingredient,Coriander,219
+ingredient,Turmeric,219
+ingredient,Chili Powder,219
+ingredient,Soy Sauce,219
+ingredient,Oil,219
+ingredient,Salt,219
+ingredient,Pepper,219
+country,Nepal,219
+dish,Momos,219
+ingredient,Raw Fish,220
+ingredient,Lime Juice,220
+ingredient,Onions,220
+ingredient,Cilantro,220
+ingredient,Chili Peppers,220
+ingredient,Salt,220
+ingredient,Garlic,220
+ingredient,Sweet Potato,220
+ingredient,Corn,220
+ingredient,Lettuce,220
+country,Peru,220
+dish,Ceviche,220
+country,Country,221
+dish,Dish,221
+ingredient,Tomato Sauce,222
+ingredient,Mozzarella Cheese,222
+ingredient,Fresh Basil Leaves,222
+ingredient,Olive Oil,222
+ingredient,Salt,222
+ingredient,Yeast,222
+ingredient,Sugar,222
+ingredient,Warm Water,222
+ingredient,All-Purpose Flour,222
+country,Italy,222
+dish,Margherita Pizza,222
+ingredient,Chicken,223
+ingredient,Yogurt,223
+ingredient,Ginger-Garlic Paste,223
+ingredient,Garam Masala,223
+ingredient,Turmeric Powder,223
+ingredient,Red Chili Powder,223
+ingredient,Butter,223
+ingredient,Tomato Puree,223
+ingredient,Cream,223
+ingredient,Kasuri Methi,223
+ingredient,Salt,223
+country,India,223
+dish,Butter Chicken,223
+ingredient,Rice Noodles,224
+ingredient,Shrimp Or Chicken,224
+ingredient,Eggs,224
+ingredient,Firm Tofu,224
+ingredient,Garlic,224
+ingredient,Shallots,224
+ingredient,Fish Sauce,224
+ingredient,Tamarind Paste,224
+ingredient,Sugar,224
+ingredient,Roasted Peanuts,224
+ingredient,Lime Wedges,224
+country,Thailand,224
+dish,Pad Thai,224
+ingredient,Pork Shoulder,225
+ingredient,Pineapple,225
+ingredient,Onion,225
+ingredient,Garlic,225
+ingredient,Guajillo Peppers,225
+ingredient,Achiote Paste,225
+ingredient,Orange Juice,225
+ingredient,White Vinegar,225
+ingredient,Oregano,225
+ingredient,Cumin,225
+ingredient,Salt,225
+ingredient,Tortillas,225
+country,Mexico,225
+dish,Tacos Al Pastor,225
+ingredient,Cooked Sushi Rice,226
+ingredient,Raw Fish Or Seafood,226
+ingredient,Nori Seaweed,226
+ingredient,Soy Sauce,226
+ingredient,Wasabi,226
+ingredient,Pickled Ginger,226
+country,Japan,226
+dish,Sushi,226
+ingredient,Poblano Peppers,227
+ingredient,Ground Beef,227
+ingredient,Tomatoes,227
+ingredient,Onions,227
+ingredient,Garlic,227
+ingredient,Cheese,227
+ingredient,Eggs,227
+ingredient,Flour,227
+ingredient,Oil,227
+country,Mexico,227
+dish,Chiles Rellenos,227
+ingredient,Semolina,228
+ingredient,Vegetables,228
+ingredient,Olive Oil,228
+country,Algeria,228
+dish,Couscous,228
+ingredient,Marinated Pork,229
+ingredient,Pineapple,229
+ingredient,Onion,229
+ingredient,Cilantro,229
+ingredient,Lime Juice,229
+ingredient,Corn Tortillas,229
+ingredient,Salsa Verde,229
+country,Mexico,229
+dish,Tacos Al Pastor,229
+ingredient,Rice,230
+ingredient,Coconut Milk,230
+ingredient,Pandan Leaves,230
+ingredient,Anchovies,230
+ingredient,Peanuts,230
+ingredient,Cucumber,230
+ingredient,Sambal Sauce,230
+country,Malaysia,230
+dish,Nasi Lemak,230
+ingredient,Chicken,231
+ingredient,Yogurt,231
+ingredient,Butter,231
+ingredient,Onion,231
+ingredient,Garlic,231
+ingredient,Ginger,231
+ingredient,Tomato Puree,231
+ingredient,Cream,231
+ingredient,Garam Masala,231
+ingredient,Turmeric,231
+ingredient,Cumin,231
+ingredient,Coriander,231
+ingredient,Fenugreek,231
+ingredient,Chili Powder,231
+ingredient,Salt,231
+country,India,231
+dish,Butter Chicken,231
+ingredient,Corn Tortillas,232
+ingredient,Grilled Meat,232
+ingredient,Onions,232
+ingredient,Cilantro,232
+ingredient,Lime,232
+ingredient,Salsa,232
+ingredient,Guacamole,232
+country,Mexico,232
+dish,Tacos,232
+ingredient,Beef Ribs,233
+ingredient,Salt,233
+ingredient,Pepper,233
+ingredient,Chimichurri Sauce,233
+country,Argentina,233
+dish,Asado,233
+ingredient,Basmati Rice,234
+ingredient,Chicken Or Lamb,234
+ingredient,Onions,234
+ingredient,Yogurt,234
+ingredient,Ginger-Garlic Paste,234
+ingredient,Biryani Masala,234
+ingredient,Saffron,234
+ingredient,Ghee,234
+ingredient,Cardamom,234
+ingredient,Cinnamon,234
+ingredient,Cloves,234
+ingredient,Mint Leaves,234
+country,India,234
+dish,Biryani,234
+ingredient,Ground Lamb,235
+ingredient,Eggplant,235
+ingredient,Potatoes,235
+ingredient,Onion,235
+ingredient,Garlic,235
+ingredient,Tomato Sauce,235
+ingredient,Cinnamon,235
+ingredient,Nutmeg,235
+ingredient,Béchamel Sauce,235
+country,Greece,235
+dish,Moussaka,235
+ingredient,Fish,236
+ingredient,Lime Juice,236
+ingredient,Red Onion,236
+ingredient,Cilantro,236
+ingredient,Garlic,236
+ingredient,Chili Peppers,236
+ingredient,Salt,236
+ingredient,Sweet Potato,236
+ingredient,Corn,236
+ingredient,Lettuce,236
+country,Peru,236
+dish,Ceviche,236
+ingredient,Basmati Rice,237
+ingredient,Chicken,237
+ingredient,Yogurt,237
+ingredient,Onions,237
+ingredient,Ginger,237
+ingredient,Garlic,237
+ingredient,Tomatoes,237
+ingredient,Spices Such As Turmeric,237
+ingredient,Cumin,237
+ingredient,Cardamom,237
+country,India,237
+dish,Biryani,237
+ingredient,Chicken,238
+ingredient,Yogurt,238
+ingredient,Ginger,238
+ingredient,Garlic,238
+ingredient,Garam Masala,238
+ingredient,Turmeric,238
+ingredient,Chili Powder,238
+ingredient,Butter,238
+ingredient,Tomatoes,238
+ingredient,Cream,238
+ingredient,Kasoori Methi,238
+ingredient,Coriander Leaves,238
+country,India,238
+dish,Butter Chicken,238
+ingredient,Pound Of Ground Beef,239
+ingredient,Onion,239
+ingredient,Teaspoon Of Chili Powder,239
+ingredient,Teaspoon Of Cumin,239
+ingredient,Teaspoon Of Paprika,239
+ingredient,Salt Pepper To Taste,239
+ingredient,Tortillas,239
+ingredient,Lettuce,239
+ingredient,Shredded Cheese,239
+ingredient,Sour Cream,239
+ingredient,Salsa,239
+country,Mexico,239
+dish,Tacos,239
+ingredient,Rice,240
+ingredient,Chicken/Meat/Vegetables,240
+ingredient,Yogurt,240
+ingredient,Onions,240
+ingredient,Ginger,240
+ingredient,Garlic,240
+ingredient,Spices,240
+ingredient,Saffron,240
+ingredient,Tomatoes,240
+country,India,240
+dish,Biryani,240
+ingredient,Basmati Rice,241
+ingredient,Chicken,241
+ingredient,Lamb,241
+ingredient,Shrimp,241
+ingredient,Onions,241
+ingredient,Tomatoes,241
+ingredient,Garlic,241
+ingredient,Ginger,241
+ingredient,Yogurt,241
+ingredient,Ghee,241
+ingredient,Turmeric,241
+ingredient,Cumin,241
+ingredient,Coriander,241
+ingredient,Cardamom,241
+ingredient,Cinnamon,241
+ingredient,Saffron,241
+ingredient,Mint Leaves,241
+ingredient,Cilantro,241
+ingredient,Lemon Juice,241
+country,India,241
+dish,Biryani,241
+ingredient,Corn Tortillas,242
+ingredient,Ground Beef Or Chicken,242
+ingredient,Onions,242
+ingredient,Tomatoes,242
+ingredient,Lettuce,242
+ingredient,Cheese,242
+ingredient,Sour Cream,242
+ingredient,Guacamole,242
+ingredient,Salsa,242
+country,Mexico,242
+dish,Tacos,242
+ingredient,Chicken,243
+ingredient,Yogurt,243
+ingredient,Ginger,243
+ingredient,Garlic,243
+ingredient,Garam Masala,243
+ingredient,Cumin,243
+ingredient,Paprika,243
+ingredient,Tomatoes,243
+ingredient,Cream,243
+ingredient,Butter,243
+country,India,243
+dish,Chicken Tikka Masala,243
+ingredient,Flour,244
+ingredient,Yeast,244
+ingredient,Water,244
+ingredient,Tomato Sauce,244
+ingredient,Mozzarella Cheese,244
+ingredient,Toppings Of Choice,244
+country,Italy,244
+dish,Pizza,244
+ingredient,Beef Bones,245
+ingredient,Onions,245
+ingredient,Ginger,245
+ingredient,Star Anise,245
+ingredient,Cloves,245
+ingredient,Cinnamon,245
+ingredient,Beef,245
+ingredient,Rice Noodles,245
+ingredient,Bean Sprouts,245
+ingredient,Basil,245
+ingredient,Lime,245
+ingredient,Hoisin Sauce,245
+ingredient,Sriracha,245
+country,Vietnam,245
+dish,Pho,245
+ingredient,Rice Noodles,246
+ingredient,Shrimp Or Chicken,246
+ingredient,Eggs,246
+ingredient,Tofu,246
+ingredient,Garlic,246
+ingredient,Shallots,246
+ingredient,Peanuts,246
+ingredient,Bean Sprouts,246
+ingredient,Lime,246
+ingredient,Fish Sauce,246
+ingredient,Tamarind Paste,246
+country,Thailand,246
+dish,Pad Thai,246
+ingredient,Eggplants,247
+ingredient,Ground Lamb Or Beef,247
+ingredient,Onions,247
+ingredient,Garlic,247
+ingredient,Tomatoes,247
+ingredient,Potatoes,247
+ingredient,Cinnamon,247
+ingredient,Nutmeg,247
+ingredient,Bechamel Sauce,247
+country,Greece,247
+dish,Moussaka,247
+ingredient,Rice,248
+ingredient,Raw Or Cooked Fish,248
+ingredient,Seaweed,248
+ingredient,Cucumber,248
+ingredient,Avocado,248
+ingredient,Soy Sauce,248
+ingredient,Wasabi,248
+ingredient,Pickled Ginger,248
+country,Japan,248
+dish,Sushi,248
+ingredient,Semolina,249
+ingredient,Vegetables,249
+country,Morocco,249
+dish,Couscous,249
+ingredient,Chicken,250
+ingredient,Red Wine,250
+ingredient,Bacon,250
+ingredient,Onions,250
+ingredient,Mushrooms,250
+ingredient,Garlic,250
+ingredient,Thyme,250
+ingredient,Bay Leaf,250
+ingredient,Chicken Broth,250
+ingredient,Butter,250
+country,France,250
+dish,Coq Au Vin,250
+ingredient,Black Beans,251
+ingredient,Pork,251
+ingredient,Onions,251
+ingredient,Garlic,251
+ingredient,Bay Leaves,251
+ingredient,Orange Zest,251
+ingredient,Collard Greens,251
+ingredient,Rice,251
+ingredient,Farofa,251
+country,Brazil,251
+dish,Feijoada,251
+ingredient,Corn Tortillas,252
+ingredient,Shredded Chicken,252
+ingredient,Cheese,252
+ingredient,Onions,252
+ingredient,Tomatoes,252
+ingredient,Chilies,252
+ingredient,Garlic,252
+ingredient,Cilantro,252
+ingredient,Sour Cream,252
+ingredient,Lettuce,252
+country,Mexico,252
+dish,Enchiladas,252
+ingredient,Cabbage,253
+ingredient,Bean Sprouts,253
+ingredient,Carrots,253
+ingredient,Cucumber,253
+ingredient,Tofu,253
+ingredient,Tempeh,253
+ingredient,Boiled Eggs,253
+ingredient,Peanut Sauce,253
+country,Indonesia,253
+dish,Gado-Gado,253
+ingredient,Rice,254
+ingredient,Shrimp,254
+ingredient,Chicken,254
+ingredient,Eggs,254
+ingredient,Kecap Manis,254
+ingredient,Fish Sauce,254
+ingredient,Vegetable Oil,254
+ingredient,Lime Juice,254
+country,Indonesia,254
+dish,Nasi Goreng,254
+ingredient,Basmati Rice,255
+ingredient,Chicken,255
+ingredient,Yogurt,255
+ingredient,Onions,255
+ingredient,Tomatoes,255
+ingredient,Ginger,255
+ingredient,Garlic,255
+ingredient,Spices,255
+ingredient,Saffron,255
+ingredient,Mint Leaves,255
+ingredient,Ghee,255
+country,India,255
+dish,Chicken Biryani,255
+ingredient,Chicken,256
+ingredient,Yogurt,256
+ingredient,Tomatoes,256
+ingredient,Onions,256
+ingredient,Garlic,256
+ingredient,Ginger,256
+ingredient,Butter,256
+ingredient,Cream,256
+ingredient,Spices,256
+ingredient,Lemon Juice,256
+country,India,256
+dish,Butter Chicken,256
+ingredient,Chicken,257
+ingredient,Yogurt,257
+ingredient,Butter,257
+ingredient,Tomato Puree,257
+ingredient,Onion,257
+ingredient,Ginger,257
+ingredient,Garlic,257
+ingredient,Garam Masala,257
+ingredient,Cumin,257
+ingredient,Turmeric,257
+ingredient,Chili Powder,257
+ingredient,Cream,257
+ingredient,Coriander Leaves,257
+ingredient,Salt,257
+country,India,257
+dish,Butter Chicken,257
+ingredient,Ground Beef,258
+ingredient,Onion,258
+ingredient,Garlic,258
+ingredient,Tomato Sauce,258
+ingredient,Lasagna Noodles,258
+ingredient,Ricotta Cheese,258
+ingredient,Mozzarella Cheese,258
+ingredient,Parmesan Cheese,258
+ingredient,Eggs,258
+ingredient,Basil,258
+ingredient,Oregano,258
+ingredient,Salt,258
+ingredient,Black Pepper,258
+country,Italy,258
+dish,Lasagna,258
+ingredient,Ground Beef,259
+ingredient,Lasagna Noodles,259
+ingredient,Ricotta Cheese,259
+ingredient,Mozzarella Cheese,259
+ingredient,Parmesan Cheese,259
+ingredient,Tomato Sauce,259
+ingredient,Onion,259
+ingredient,Garlic,259
+ingredient,Olive Oil,259
+ingredient,Salt,259
+ingredient,Pepper,259
+country,Italy,259
+dish,Lasagna,259
+ingredient,Rice,260
+ingredient,Assorted Vegetables,260
+ingredient,Sesame Oil,260
+ingredient,Soy Sauce,260
+ingredient,Garlic,260
+ingredient,Sesame Seeds,260
+country,Korea,260
+dish,Bibimbap,260
+ingredient,Lamb,261
+ingredient,Potatoes,261
+ingredient,Carrots,261
+ingredient,Onions,261
+ingredient,Garlic,261
+ingredient,Flour,261
+ingredient,Salt,261
+ingredient,Pepper,261
+country,Mongolia,261
+dish,Buur,261
+ingredient,Chicken,262
+ingredient,Yogurt,262
+ingredient,Tomato Puree,262
+ingredient,Onion,262
+ingredient,Garlic,262
+ingredient,Ginger,262
+ingredient,Garam Masala,262
+ingredient,Turmeric,262
+ingredient,Cumin,262
+ingredient,Coriander,262
+ingredient,Butter,262
+ingredient,Cream,262
+ingredient,Fenugreek Leaves,262
+country,India,262
+dish,Butter Chicken,262
+ingredient,Chicken,263
+ingredient,Yogurt,263
+ingredient,Lemon Juice,263
+ingredient,Garlic,263
+ingredient,Ginger,263
+ingredient,Garam Masala,263
+ingredient,Paprika,263
+ingredient,Cumin,263
+ingredient,Coriander,263
+ingredient,Chili Powder,263
+ingredient,Turmeric,263
+ingredient,Tomato Puree,263
+ingredient,Heavy Cream,263
+ingredient,Butter,263
+ingredient,Onion,263
+ingredient,Green Chili,263
+ingredient,Cilantro,263
+country,India,263
+dish,Chicken Tikka Masala,263
+ingredient,Rice,264
+ingredient,Saffron,264
+ingredient,Chicken,264
+ingredient,Rabbit,264
+ingredient,Green Beans,264
+ingredient,Tomatoes,264
+ingredient,Paprika,264
+ingredient,Garlic,264
+ingredient,Onion,264
+ingredient,Olive Oil,264
+ingredient,Lemon,264
+ingredient,Salt,264
+country,Spain,264
+dish,Paella,264
+ingredient,Chicken,265
+ingredient,Yogurt,265
+ingredient,Butter,265
+ingredient,Onions,265
+ingredient,Tomatoes,265
+ingredient,Garlic,265
+ingredient,Ginger,265
+ingredient,Cream,265
+ingredient,Garam Masala,265
+ingredient,Turmeric,265
+ingredient,Cumin,265
+ingredient,Coriander,265
+ingredient,Chili Powder,265
+ingredient,Fenugreek Leaves,265
+country,India,265
+dish,Butter Chicken,265
+ingredient,Chicken,266
+ingredient,Onions,266
+ingredient,Garlic,266
+ingredient,Ginger,266
+ingredient,Saffron,266
+ingredient,Turmeric,266
+ingredient,Cumin,266
+ingredient,Coriander,266
+ingredient,Cinnamon,266
+ingredient,Preserved Lemons,266
+ingredient,Olives,266
+ingredient,Vegetable Broth,266
+ingredient,Olive Oil,266
+country,Morocco,266
+dish,Tagine,266
+ingredient,Raw Fish Or Seafood,267
+ingredient,Lime Juice,267
+ingredient,Red Onion,267
+ingredient,Cilantro,267
+ingredient,Garlic,267
+ingredient,Salt,267
+ingredient,Pepper,267
+ingredient,Chili Peppers,267
+ingredient,Sweet Potatoes,267
+ingredient,Corn,267
+ingredient,Lettuce,267
+country,Peru,267
+dish,Ceviche,267
+ingredient,Chicken,268
+ingredient,Butter,268
+ingredient,Tomatoes,268
+ingredient,Onion,268
+ingredient,Garlic,268
+ingredient,Ginger,268
+ingredient,Garam Masala,268
+ingredient,Turmeric,268
+ingredient,Cumin,268
+ingredient,Red Chili Powder,268
+ingredient,Cream,268
+country,India,268
+dish,Butter Chicken,268
+ingredient,Pork Shoulder,269
+ingredient,Pineapple,269
+ingredient,Onion,269
+ingredient,Garlic,269
+ingredient,Dried Guajillo Peppers,269
+ingredient,Achiote Paste,269
+ingredient,White Vinegar,269
+ingredient,Cumin,269
+ingredient,Oregano,269
+ingredient,Salt,269
+ingredient,Pepper,269
+ingredient,Corn Tortillas,269
+ingredient,Cilantro,269
+ingredient,Onion,269
+ingredient,Lime Juice,269
+country,Mexico,269
+dish,Tacos Al Pastor,269
+country,Country,270
+dish,Dish,270
+country,Country,271
+dish,Dish,271
+country,Country,272
+dish,Dish,272
+country,Country,273
+dish,Dish,273
+country,Country,274
+dish,Dish,274
+country,Country,275
+dish,Dish,275
