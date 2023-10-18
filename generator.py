@@ -14,5 +14,5 @@ for i in range(1000):
             )
     
     # Write the data into a CSV format.
-    with open("responses.csv", "a+") as outfile:
+    with open("data/responses.csv", "a+") as outfile:
         outfile.write(response["choices"][0]["message"]["content"]+"\n") 

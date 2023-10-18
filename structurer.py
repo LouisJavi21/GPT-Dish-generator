@@ -2,7 +2,7 @@ import json
 from csv import writer
 
 # Load in dishes
-with open("dishes.json", "r") as infile:
+with open("data/dishes.json", "r") as infile:
     dishes = json.load(infile)
 
 
@@ -46,12 +46,12 @@ for dish in dishes:
 # Make sure the edges are unique, limited to size
 
 edges = list(set(edges))
-with open("nodes.csv", "w+") as outfile:
+with open("data/nodes.csv", "w+") as outfile:
     csv_writer = writer(outfile)
     outfile.write("Node Type,Name,id\n")
     outfile.writelines(nodes)
 
-with open("edges.csv", "w+") as outfile:
+with open("data/edges.csv", "w+") as outfile:
     csv_writer = writer(outfile)
     outfile.write("From Type,From Name,Edge Type,To Type,To Name,id\n")
     outfile.writelines(edges)

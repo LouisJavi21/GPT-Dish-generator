@@ -11,7 +11,7 @@ dishes = []
 # Replaces Full stops
 ingredients_re =r"\s\(.*\)| and|\.|[Ii]ngredients|[Ii]ngredients:|^[0-9]* tsp$|[0-9]+ml|[0-9]* tbsp|[0-9]+g|[0-9] |:"
 
-with open("responses.csv", "r") as infile:
+with open("data/responses.csv", "r") as infile:
     csv_reader = reader(infile, delimiter=';')
     for line in csv_reader:
 
@@ -61,7 +61,7 @@ with open("responses.csv", "r") as infile:
         dish = {"country": line[0], "dish": line[1], "ingredients": line[2]}
         dishes.append(dish)
 
-with open("dishes.json", "w+") as outfile:
+with open("data/dishes.json", "w+") as outfile:
     outfile.writelines(json.dumps(dishes))
 
 # df = pd.DataFrame.from_dict(dishes)
